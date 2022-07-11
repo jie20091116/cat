@@ -17,7 +17,7 @@
 //{"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_huya","name":"🐯虎牙(XP)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontents.com/jie20091116/cat/6da8244a236e367031f1e75b6a6398a3c7b6b4cc/TVBOX/MaooXP/huya2.json"},
 {"key":"csp_biubiu_斗鱼","name":"🥒斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontents.com/jie20091116/cat/6da8244a236e367031f1e75b6a6398a3c7b6b4cc/TVBOX/MaooXB2/斗鱼.json"},
-{"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontents.com/jie20091116/cat/6da8244a236e367031f1e75b6a6398a3c7b6b4cc/TVBOX/MaooXP/kuqimv.json"},
+{"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontents.com/jie20091116/cat/main/TVBOX/MaooXP/kuqimv.json"},
 {"key":"csp_XBiubiubiubiu_ruix","name":"锐行(B)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVBox/maooxb/锐行.json"},
 {"key":"csp_XBiubiubiubiu_voflix","name":"voflix","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVBox/maooxb/voflix.json"},
 {"key":"csp_biubiu_厂长资源-蓝光","name":"🥒厂长资源-蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontents.com/jie20091116/cat/6da8244a236e367031f1e75b6a6398a3c7b6b4cc/TVBOX/MaooXB2/厂长资源-蓝光.json"},
