@@ -4,8 +4,9 @@
 
 {
 ## spider
-//"spider":"https://raw.githubusercontents.com/jie20091116/cat/bcca5984ff6456ddc649d40567520e3b1811d264/TVBOX/jar/XBiubiuLA3.jar",
-"spider":"https://raw.githubusercontents.com/jie20091116/cat/bcca5984ff6456ddc649d40567520e3b1811d264/TVBOX/jar/XBiubiuLA4.jar",
+//"spider":"https://raw.githubusercontents.com/jie20091116/cat/main/TVBOX/jar/XBiubiuLA2.jar",
+"spider":"https://raw.githubusercontents.com/jie20091116/cat/main/TVBOX/jar/XBiubiuLA3.jar",
+"spider":"https://raw.githubusercontents.com/jie20091116/cat/main/TVBOX/jar/XBiubiuLA4.jar",
 
 # 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL2ppZTIwMDkxMTE2L2NhdC9ibG9iLzIxZDllNGEyODM5YmQxODYxOTY3YjdjNjBhZmE2YmZlZGE5ZTFmZDYvVFZCT1gvdHZsaXZlL2xpdmUudHh0"]}]}],
