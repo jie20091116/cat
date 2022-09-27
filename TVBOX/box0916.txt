@@ -1,3 +1,4 @@
+
 {
 
 "spider":"http://神器每日推送.tk/jar;md5;89a367a21768e46bc528b6ecf735e1b3",
@@ -38,7 +39,7 @@
 {"key":"csp_Mjxq","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Yj1211","name": "📽️网红直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Anime1","name": "🌸日本动漫(SP)","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
-
+	
 {"key": "T4","name": "🐞豆瓣荐片(T4桉)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/json/alist.json"},	
@@ -67,7 +68,7 @@
 {"key":"csp_XYQBiu_凌云影视","name": "🍀凌云","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://神器每日推送.tk/XYQxb/凌云影视.json"},
 {"key":"csp_XYQBiu_万能影院","name": "🍀万能","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://神器每日推送.tk/XYQxb/万能影院.json"},
 {"key":"csp_XYQBiu_大米星球","name":"🍀大米","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://神器每日推送.tk/XYQxb/大米星球.json"},
-
+	
 {"key":"csp_xp_meiju56","name":"💢美剧网","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/meiju562.json"},
 {"key":"csp_xbb_美剧虫","name":"🍀美剧虫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/美剧虫.json"},
 {"key":"csp_xbb_akmeiju","name":"🍀爱看美剧","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/akmeiju.json"},
@@ -267,7 +268,7 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 //{"name":"Json并发","type":2,"url":"Parallel"},
 //{"name":"Json轮询","type":2,"url":"Sequence"},
-
+	
 {"name":"GGTV搜集","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
 {"name":"GGTV自用","type":1,"url":"https://play.fuqizhishi.com/jx/API.php?appkey=xiaobai888&url="},
 {"name":"懒人","type": 1,"url": "http://120.53.102.254/jx1/jx75.php?url="},
