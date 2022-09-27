@@ -1,8 +1,3 @@
-// 公众号-神器每日推送：每天分享各种实用、高效、有趣的神器，包括国外神器绿色汉化版，以及各种操作技巧干货......
-// 进群吹水加 wx:abdtong1
-// 本接口 http://神器每日推送.tk/pz.json  收集自网络上github上各位大佬的分享，只分享给小白免费体验，感谢每位无私奉献和分享的大佬！如有冒犯请联系删除。
-// Github加速站  http://加速.神器每日推送.tk
-
 {
 
 "spider":"http://神器每日推送.tk/jar;md5;b36bd696d9b4ec61e31e86d52c2f2a3a",
@@ -265,13 +260,13 @@
 
 ],
 
-//解析设置
+解析设置
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
-//{"name":"Json并发","type":2,"url":"Parallel"},
-//{"name":"Json轮询","type":2,"url":"Sequence"},
+{"name":"Json并发","type":2,"url":"Parallel"},
+{"name":"Json轮询","type":2,"url":"Sequence"},
 	
-//{"name":"GGTV搜集","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
+{"name":"GGTV搜集","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
 {"name":"GGTV自用","type":1,"url":"https://play.fuqizhishi.com/jx/API.php?appkey=xiaobaiiiii&url="},
 {"name":"神1","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"神2","type":0,"url":"https://h5.freejson.xyz/player/?url=","ext":{"flag":[ "qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
