@@ -298,7 +298,6 @@
 {"key":"csp_xml_飘花资源","name":"??飘花资源","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_影图资源","name":"??影图资源","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 	
-//伦理站源注释，已倒序查阅到262行
 {"key":"csp_xml_冠军资源","name":"??冠军资源","type":1,"api":"https://www.cmpzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},  
 {"key":"csp_xml_诺迅资源","name":"??诺迅资源","type":1,"api":"https://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1},
 {"key":"csp_xml_忆梦","name":"??忆 梦","type":1,"api":"http://anltv.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
