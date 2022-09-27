@@ -1,4 +1,4 @@
-{
+﻿{
 
 "spider":"http://神器每日推送.tk/jar;md5;b36bd696d9b4ec61e31e86d52c2f2a3a",
 "wallpaper":"http://壁纸.神器每日推送.tk",
