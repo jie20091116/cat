@@ -1,4 +1,4 @@
-﻿{
+{
 
 "spider":"http://神器每日推送.tk/vod;md5;087914a45cc988d96581defbc3eeb2f4",
 "wallpaper":"http://壁纸.神器每日推送.tk",
@@ -109,7 +109,7 @@
 {"key":"dr_cokemv","name":"🔃cokemv(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=cokemv","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_LIBVIO","name":"🔃LIBVIO(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=LIBVIO","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_在线之家","name":"🔃在线之家(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=在线之家","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"LIBVIO(DR)","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/LIBVIO.js"},
+
 
 {"key":"hnzy","name":"🐂红牛资源(SP)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"乐活影视","name":"🐛乐活影视(优)","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
