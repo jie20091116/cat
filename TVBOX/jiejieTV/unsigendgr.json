@@ -1,0 +1,314 @@
+﻿{
+"api":[ 
+{"key":"影视TV Max线路〔点我切换〕",
+"name":"公告：当前最新版本1.0.3 个人版",
+"ext":"",
+"date":"2022-09-06 10:20:05"
+},
+{
+"ext": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/gfgr.json",
+"date":"2022-09-06 12:17:00",
+"key":"FASTEIT线路",
+"name":"FASTEIT线路"
+},
+{
+"ext": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/iqiqgr.json",
+"date":"2022-09-06 12:17:00",
+"key":"IQIQ线路",
+"name":"IQIQ线路"
+},
+{
+"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/proxygr.json",
+"date":"2022-09-06 12:17:00",
+"key":"GHPROXY线路",
+"name":"GHPROXY线路"},
+{
+"ext":"https://gitee.com/zhanghong19830310/tv/raw/master/tv/giteetvboxgr.json",
+"date":"2022-09-06 12:17:00",
+"key":"GITEE线路",
+"name":"GITEE线路"
+},
+{
+"ext":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/%E5%BD%B1%E8%A7%86TV/giteatvboxgr.json",
+"date":"2022-09-06 12:17:00",
+"key":"GITEA线路",
+"name":"GITEA线路"
+},
+{
+"ext": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json",
+"date":"2022-09-06 12:17:00",
+"key":"Yoursmile家庭版线路",
+"name":"Yoursmile家庭版线路"
+},
+{
+"ext": "https://gitea.com/Mike906/jar/raw/branch/main/zzz.json",
+"date":"2022-09-06 12:17:00",
+"key":"Mike906家庭版线路",
+"name":"Mike906家庭版线路"
+},
+{
+"ext": "https://pastebin.com/raw/FSLJXZN5",
+"date":"2022-09-09 20:46:00",
+"key":"公众号:源享家 免费接口",
+"name":"公众号:源享家 免费接口"
+},
+{
+"ext": "http://52bsj.vip:98/wuai",
+"date":"2022-09-06 12:17:00",
+"key":"吾爱️线路",
+"name":"吾爱️线路"
+},
+{
+"ext": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+"date":"2022-09-06 12:17:00",
+"key":"〔云星日记〕家庭版线路",
+"name":"〔云星日记〕家庭版线路"
+},
+{
+"ext": "http://maoyingshi.cc/tvbox/云星日记/bili.json",
+"date":"2022-09-06 12:17:00",
+"key":"〔云星日记〕哔哩套餐线路",
+"name":"〔云星日记〕哔哩套餐线路"
+},
+{
+"ext": "http://刚刚.live/猫",
+"date":"2022-09-06 12:17:00",
+"key":"刚刚家庭版线路",
+"name":"刚刚家庭版线路"
+},
+{
+"ext": "http://xn--4bra.live/猫",
+"date":"2022-09-06 12:17:00",
+"key":"刚刚家庭版副线",
+"name":"刚刚家庭版副线"
+},
+{
+"ext": "http://js.134584.xyz/json/pp87.json",
+"date":"2022-09-06 12:17:00",
+"key":"白嫖影视家庭版线路",
+"name":"白嫖影视家庭版线路"
+},
+{
+"ext": "https://gitea.com/33/3/raw/branch/3/3/1",
+"date":"2022-09-06 12:17:00",
+"key":"白嫖影视家庭版副线",
+"name":"白嫖影视家庭版副线"
+},
+{
+"ext": "https://raw.fastgit.org/chengxueli818913/maoTV/main/33.txt",
+"date":"2022-09-06 12:17:00",
+"key":"佰欣园主线",
+"name":"佰欣园主线"
+},
+{
+"ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
+"date":"2022-09-06 12:17:00",
+"key":"佰欣园副线",
+"name":"佰欣园副线"
+},
+{
+"ext": "https://www.fastmock.site/mock/1d52adb084c96725525077ce7380de4c/tv/bd",
+"date":"2022-09-06 12:17:00",
+"key":"BD线路",
+"name":"BD线路"
+},
+{
+"ext": "https://agit.ai/zn777/yshz/raw/branch/master/220827agit.txt",
+"date":"2022-09-06 12:17:00",
+"key":"zn777主线",
+"name":"zn777主线"
+},
+{
+"ext": "https://us.kstore.space/download/2710/yshz/220827%E5%87%AF%E9%80%9F.txt",
+"date":"2022-09-06 12:17:00",
+"key":"zn777副线二",
+"name":"zn777副线二"
+},
+{
+"ext": "https://try.gitea.io/zn777/yshz/raw/branch/main/220827giteaio.txt",
+"date":"2022-09-06 12:17:00",
+"key":"zn777副线三",
+"name":"zn777副线三"
+},
+{
+"ext": "https://gitcode.net/m0_73513607/yshz/-/raw/master/220827gitcode.txt?inline=false",
+"date":"2022-09-06 12:17:00",
+"key":"zn777副线四",
+"name":"zn777副线四"
+},
+{
+"ext": "http://0454dt.com/tvbox",
+"date":"2022-09-06 12:17:00",
+"key":"二哈线路",
+"name":"二哈线路"
+},
+{
+"ext": "https://神器每日推送.tk/pz.json",
+"date":"2022-09-06 12:17:00",
+"key":"神器每日推送线路",
+"name":"神器每日推送线路"
+},
+{
+"ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/tv.json",
+"date":"2022-09-06 12:17:00",
+"key":"冰点娱乐线路",
+"name":"冰点娱乐线路"
+},
+{
+"ext": "http://120.53.102.254/tvb",
+"date":"2022-09-06 12:17:00",
+"key":"懒人线路",
+"name":"懒人线路"
+},
+{
+"ext": "https://box.okeybox.top/tv/0xth.json",
+"date":"2022-09-06 12:17:00",
+"key":"懒人副线",
+"name":"懒人副线"
+},
+{
+"ext": "https://gitea.com/suanjin/tv/raw/branch/master/main/0725.json",
+"date":"2022-09-06 12:17:00",
+"key":"suanjin线路",
+"name":"suanjin线路"
+},
+{
+"ext": "http://47.242.90.42:8888/down/BJZPa8THuiE9",
+"date":"2022-09-06 12:17:00",
+"key":"星辰线路",
+"name":"星辰线路"
+},
+{
+"ext": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+"date":"2022-09-06 12:17:00",
+"key":"月光宝盒线路",
+"name":"月光宝盒线路"
+},
+{
+"ext": "https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU=:0",
+"date":"2022-09-06 12:17:00",
+"key":"猫影视Pro线路",
+"name":"猫影视Pro线路"
+},
+{
+"ext": "https://gitea.com/sunkangfu/skf/raw/branch/main/sjz.json",
+"date":"2022-09-06 12:17:00",
+"key":"sunkangfu线路",
+"name":"sunkangfu线路"
+},
+{
+"ext": "https://gitcode.net/kuukey/a/-/raw/master/0.json",
+"date":"2022-09-06 12:17:00",
+"key":"KUUKE线路",
+"name":"KUUKE线路"
+},
+{
+"ext": "https://gitea.com/nb/kls/raw/branch/master/a9.json",
+"date":"2022-09-06 12:17:00",
+"key":"KLS线路",
+"name":"KLS线路"
+},
+{
+"ext": "https://gitea.com/qsy/json/raw/branch/main/自用.txt",
+"date":"2022-09-06 12:17:00",
+"key":"QSY线路",
+"name":"QSY线路"
+},
+{
+"ext": "https://gitea.com/qsy/json/raw/branch/main/曲.txt",
+"date":"2022-09-06 12:17:00",
+"key":"QSY副线",
+"name":"QSY副线"
+},
+{
+"ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/111.json",
+"date":"2022-09-06 12:17:00",
+"key":"83225451线路",
+"name":"83225451线路"
+},
+{
+"ext": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0820.json",
+"date":"2022-09-06 12:17:00",
+"key":"chuqiuyu线路",
+"name":"chuqiuyu线路"
+},
+{
+"ext": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/1.json",
+"date":"2022-09-06 12:17:00",
+"key":"chuqiuyu备用线",
+"name":"chuqiuyu备用线"
+},
+{
+"ext": "https://raw.iqiq.io/liu673cn/box/main/m.json",
+"date":"2022-09-06 12:17:00",
+"key":"老刘备家庭版线路",
+"name":"老刘备家庭版线路"
+},
+{
+"ext": "https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+"date":"2022-09-06 12:17:00",
+"key":"老刘备家庭版副线",
+"name":"老刘备家庭版副线"
+},
+{
+"ext": "https://download.kstore.space/download/2863/01.txt",
+"date":"2022-09-06 12:17:00",
+"key":"潇洒日记线路",
+"name":"潇洒日记线路"
+},
+{
+"ext": "https://wds.ecsxs.com/223843.txt",
+"date":"2022-09-06 12:17:00",
+"key":"223843线路",
+"name":"223843线路"
+},
+{
+"ext": "http://s.nxw.so/vip",
+"date":"2022-09-06 12:17:00",
+"key":"凯速2863",
+"name":"凯速2863"
+},
+{
+"ext": "https://shadowchiu369.github.io/TVBox/sc.json",
+"date":"2022-09-06 12:17:00",
+"key":"啥都愁线路",
+"name":"啥都愁线路"
+},
+{
+"ext": "https://agit.ai/n/b/raw/branch/a/b/c.json",
+"date":"2022-09-06 12:17:00",
+"key":"HDXY线路",
+"name":"HDXY线路"
+},
+{
+"ext": "http://miaotvs.cn/osc",
+"date":"2022-09-06 12:17:00",
+"key":"太阳视界家庭版线路",
+"name":"太阳视界家庭版线路"
+},
+{
+"url":"https://raw.fastgit.org/chengxueli818913/maoTV/main/18.json",
+"date":"2022-09-06 12:17:00",
+"key":"佰欣园福利线路",
+"name":"佰欣园福利线路"
+},
+{
+"url":"https://raw.fastgit.org/chengxueli818913/maoTV/main/福利接口.txt",
+"date":"2022-09-06 12:17:00",
+"key":"佰欣园福利接口",
+"name":"佰欣园福利接口"
+},
+{
+"url":"https://gitea.com/houxian/json/raw/branch/master/adult.json",
+"date":"2022-09-06 12:17:00",
+"key":"houxian福利线路",
+"name":"houxian福利线路"
+},
+{
+"url":"https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
+"date":"2022-09-06 12:17:00",
+"key":"?????",
+"name":"?????"
+}
+]
+}
