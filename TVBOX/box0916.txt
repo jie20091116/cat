@@ -1,6 +1,6 @@
 {
 
-"spider":"http://神器每日推送.tk/vod;md5;f4ba0b967a9fad08afa06d198e3b796d",
+"spider":"http://神器每日推送.tk/vod;md5;5edfc786fa411bc2c458b9433bd0aead",
 "wallpaper":"http://壁纸.神器每日推送.tk",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnRzLmNvbS9qaWUyMDA5MTExNi9jYXQvbWFpbi9UVkJPWC90di50eHQ="]}]}],
 
