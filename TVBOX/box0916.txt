@@ -66,13 +66,10 @@
 {"key":"csp_xBPQ_不卡","name":"🍀不卡","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/xbpq/不卡.json"},	
 {"key":"csp_xBPQ_um","name":"🍀UM看","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/xbpq/umkan.json"},
 {"key":"csp_xBPQ_子子","name":"🍀子子","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/xbpq/子子影视.json"},
-{"key":"csp_xBPQ_F7好看剧","name":"F7好看剧(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/jie20091116/cat/main/TVBOX/MaooXBPQ/F7好看剧.json"},
-{"key":"csp_xBPQ_1080dy","name":"1080电影(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/jie20091116/cat/main/TVBOX/MaooXBPQ/1080dy.json"},
-{"key":"csp_xBPQ_万能影视","name":"万能影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/jie20091116/cat/main/TVBOX/MaooXBPQ/万能影视.json"},
-{"key":"csp_xBPQ_荐片","name":"荐片ys(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/jie20091116/cat/main/TVBOX/MaooXBPQ/荐片.json"},
+
 {"key": "csp_xBPQ_黑洞影视", "name": "黑洞影视(XBPQ)", type": 3, "api": "csp_xBPQ", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext":"https://raw.githubusercontents.com/jie20091116/cat/main/TVBOX/MaooXBPQ/黑洞影视.json"},
 {"key":"csp_xBPQ_电影先生","name":"🍀电影先生(XBPQ)","type":3,"api": "csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontents.com/jie20091116/cat/main/TVBOX/MaooXBPQ/电影先生.json"},
-{"key":"csp_xBPQ_libvio","name":"libvio(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"你的地址/libvio.json"}, 
+{"key":"csp_xBPQ_libvio","name":"libvio(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/jie20091116/cat/main/TVBOX/MaooXBPQ//libvio.json"}, 
 
 {"key":"csp_xBPQ_酷客","name":"🍀酷客","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/xbpq/酷客.json"},
 {"key":"csp_xBPQ_嗷呜视频","name":"🦁嗷呜视频 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"show-desc&&</p >\",\"分类\":\"数字||$124\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list-content&&</div>\",\"分类url\":\"http://www.cx99999.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"},
