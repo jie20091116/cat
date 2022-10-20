@@ -183,26 +183,6 @@
       "ext": "https://agit.ai/leevi/apps/raw/branch/main/json/%E7%A3%81%E5%8A%9B.json"
     },
     {
-      "key": "csp_XYQHiker_氢视频",
-      "name": "🌑氢视频",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/leevi/apps/raw/branch/main/json/%E6%B0%A2%E8%A7%86%E9%A2%91.json"
-    },
-    {
-      "key": "csp_XYQHiker_冷曦影视",
-      "name": "❄冷曦影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/leevi/apps/raw/branch/main/json/%E5%86%B7%E6%9B%A6%E5%BD%B1%E8%A7%86.json"
-    },
-    {
       "key": "csp_biubiu_在线之家",
       "name": "🏠在线之家",
       "type": 3,
@@ -231,16 +211,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://agit.ai/leevi/apps/raw/branch/main/json/%E5%87%8C%E4%BA%91%E9%9F%A9%E5%9B%BD.json"
-    },
-    {
-      "key": "csp_XBiubiu_大米星球",
-      "name": "🍚大米星球",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/leevi/apps/raw/branch/main/json/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%83.json"
     },
     {
       "key": "csp_xpath_chinatv",
@@ -301,16 +271,6 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://agit.ai/leevi/apps/raw/branch/main/json/%E6%AF%94%E7%89%B9%E5%BD%B1%E8%A7%86.json"
-    },
-    {
-      "key": "csp_biubiu_yekong",
-      "name": "🌃夜空蓝光",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://agit.ai/leevi/apps/raw/branch/main/json/%E5%A4%9C%E7%A9%BA%E8%93%9D%E5%85%89.json"
     },
     {
       "key": "花猫影视",
