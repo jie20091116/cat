@@ -53,6 +53,26 @@
 {"key": "csp_XYQBiu_影子工厂", "name":"影子工厂(XYQ)", "type":3, "api":"csp_XYQBiu", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://raw.githubusercontents.com/jie20091116/cat/main/TVBOX/MaooXYQB/影子工厂.json"},
 {"key": "csp_XYQBiu_555ys", "name":"555ys(XYQ)", "type":3, "api":"csp_XYQBiu", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://raw.githubusercontents.com/jie20091116/cat/main/TVBOX/MaooXYQB/555ys.json"},
 {"key": "csp_XYQBiu_e9视频", "name":"e9视频(XYQ)", "type":3, "api":"csp_XYQBiu", "searchable":1, "quickSearch":1, "filterable":1, "ext":"https://raw.githubusercontents.com/jie20091116/cat/main/TVBOX/MaooXYQB/e9视频.json"},
+{
+      "key": "网易CC",
+      "name": "🐠网易CC",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://agit.ai/leevi/apps/raw/branch/main/json/%E7%BD%91%E6%98%93CC.json"
+    },
+    {
+      "key": "csp_xpath_酷狗MV",
+      "name": "🐶酷狗MV",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://agit.ai/leevi/apps/raw/branch/main/json/%E9%85%B7%E7%8B%97MV.json"
+    },
 
 {"key":"csp_xBPQ_工场","name":"🍀工场","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/xbpq/影视工场.json"},
 {"key":"csp_xBPQ_98","name":"🍀98影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://神器每日推送.tk/xbpq/98影院.json"},
