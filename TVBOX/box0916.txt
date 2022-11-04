@@ -1,11 +1,13 @@
 {
 
-"spider":"http://神器每日推送.tk/vob;md5;5f8fc214f8bda7598a1c4387f7062f2e",
+"spider":"http://神器每日推送.tk/vod;md5;c4ba98711fac35daff17780d0817f5dc",
 "wallpaper":"http://壁纸.神器每日推送.tk",
 
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvamllMjAwOTExMTYvY2F0L21haW4vVFZCT1gvdHYudHh0"]}]}],
 
 "sites":[
+{"key":"douban2","name":"🅱豆瓣荐片┃杰哥推荐首页","type":4,"api":"http://top.fuqizhishi.com/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"js豆瓣","name":"🅱豆瓣热播┃dr首页","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js"},
 {"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_KanSJ","name":"🗽看视界┃杰哥推荐","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Bili","name":"🅱哔哩合集┃","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXB2/bilibili.json"},
