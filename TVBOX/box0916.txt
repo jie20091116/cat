@@ -3,7 +3,7 @@
 "spider":"http://神器每日推送.tk/vod;md5;c4ba98711fac35daff17780d0817f5dc",
 "wallpaper":"http://壁纸.神器每日推送.tk",
 
-"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvbGl2ZS50eHQ="]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvamllMjAwOTExMTYvY2F0L21haW4vVFZCT1gvdHYudHh0"]}]}],
 
 "sites":[
 {"key":"douban2","name":"🅱豆瓣荐片┃杰哥推荐首页","type":4,"api":"http://top.fuqizhishi.com/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
