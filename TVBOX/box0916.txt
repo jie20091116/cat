@@ -1117,6 +1117,218 @@
 {"name":"2080kk","type":1,"url":"https://v.2080kk.com/home/api?type=ys&uid=1308653&key=behnpstwxBCHJMQ029&url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
 {"name":"江湖","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
 {"name":"OKjx嗅探","type":0,"url":"https://okjx.cc/?url="},
+ {
+    "name" : "懒懒1",
+    "type" : 1,
+    "url" : "http://123.57.56.94:9931/lanlan/?url="
+  }, 
+{
+    "name" : "目前可以解",
+    "type" : 1,
+    "url" : "http://jx.vipmv.co/json.php?token=123457&url=",
+    "ext" : {
+      "flag" : [ "rx", "ltnb", "renrenmi", "rongxing", "bilibili", "哔哩哔哩", "哔哩", "youku", "优酷", "qiyi", "爱奇艺", 
+
+"奇艺", "qq", "腾讯", "mgtv", "芒果", "sohu", "搜狐", "letv", "乐视", "xigua", "CL4K", "西瓜" ]
+    }
+  }, 
+{
+    "name" : "BT5V",
+    "url" : "https://rx.bt5v.com/json/jsonindex.php/?url=",
+    "type" : 1,
+    "ext" : {
+      "flag" : [ "qiyi", "imgo", "爱奇艺", "奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "leshi", 
+
+"bilibili", "哔哩哔哩", "哔哩", "mgtv", "芒果", "sohu", "xigua", "fun", "风行" ],
+      "header" : {
+        "User-Agent" : "Mozilla/5.0"
+      }
+    }
+  }, {
+    "name" : "急速5",
+    "type" : 1,
+    "url" : 
+
+"http://ck.laobandq.com/3515240842.php?pltfrom=1100&url=",
+    "ext" : {
+      "flag" : [ "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "CL4K", "renrenmi", "ltnb", "xigua" ]
+    }
+  
+
+}, 
+{
+    "name" : "风起清河",
+    "type" : 1,
+    "url" : "http://www.pandown.pro/app/tkys/tkysjx.php?url=",
+    "ext" : {
+      "flag" : [ "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", 
+
+"rx", "ltnb", "bilibili", "1905", "xigua" ]
+    }
+  }, 
+{
+    "name" : "⌛️鸿途",
+    "type" : 1,
+    "url" : "https://json.freejson.xyz/hongtu.php?url=",
+    "ext" : {
+      "header" : {
+        "User-Agent" : "okhttp/4.1.0"
+      }
+    }
+  }, 
+{
+    "name" : "线路3",
+    "type" : 1,
+    "url" : "http://chaloli.cn/home/api?type=ys&uid=4629366&key=acpsABEFHIMPQWZ079&url=",
+    "ext" : {
+      "flag" : [ "qiyi", "qq", "letv", "sohu", "youku", "mgtv", "bilibili", "wasu", "xigua", 
+
+"1905" ]
+    }
+  }, 
+{
+    "name" : "⌛️扶风",
+    "type" : 1,
+    "url" : "https://www.1920lgzy.top/json.php?url=",
+    "ext" : {
+      "header" : {
+        "User-Agent" : "Mozilla/5.0"
+      }
+    }
+  }, 
+{
+    "name" : "dyg",
+    "url" : "https://drpy.owen10086.repl.co/parse/api/dyg.js?url=",
+    "type" : 1,
+    "ext" : {
+      "flag" : [ "qiyi", "imgo", "爱奇艺", "奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "leshi", 
+
+"bilibili", "哔哩哔哩", "哔哩", "mgtv", "芒果", "sohu", "xigua", "fun", "风行" ],
+      "header" : {
+        "User-Agent" : "Mozilla/5.0"
+      }
+    }
+  }, 
+{
+    "name" : "GGTV",
+    "type" : 1,
+    "url" : "https://play.fuqizhishi.com/jx2/API.php?appkey=iiiixiaobai&url="
+  }, 
+{
+    "name" : "📂公益5",
+    "type" : 1,
+    "url" : "http://3.37.195.161:54371/parse/api/无名.js?url=",
+    "header" : {
+      "User-Agent" : "Mozilla/5.0"
+    }
+  }, {
+    "name" : "168",
+    "url" : 
+
+"https://drpy.owen10086.repl.co/parse/api/168.js?url=",
+    "type" : 1,
+    "ext" : {
+      "flag" : [ "qiyi", "imgo", "爱奇艺", "奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "leshi", "bilibili", "哔哩哔哩", "哔哩", 
+
+"mgtv", "芒果", "sohu", "xigua", "fun", "风行" ],
+      "header" : {
+        "User-Agent" : "Mozilla/5.0"
+      }
+    }
+  }, 
+{
+    "name" : "rx2",
+    "type" : 1,
+    "url" : "http://rxjx.kuanjv.com/allm3u8.php?url="
+  }, 
+{
+    "name" : "云you秒播②",
+    "type" : 1,
+    "url" : "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+    "ext" : {
+      "flag" : [ "qiyi", "qq", "letv", "sohu", "youku", "mgtv", "bilibili", "wasu", "xigua", "1905" ]
+    }
+  }, 
+{
+    "name" : "云you解析①",
+    "type" : 1,
+    "url" : "http://chaloli.cn/home/api?type=ys&uid=1&key=ekloswzABCGHKLOT58&url="
+  }, 
+{
+    "name" : "宝盒TV",
+    "type" : 1,
+    "url" : "https://jx.52ruo.cc/json/?id=6&url="
+  }, 
+{
+    "name" : "懒懒2",
+    "type" : 1,
+    "url" : "http://lanlan.ckflv.cn/?url=",
+    "ext" : {
+      "flag" : [ "qiyi", "qq", "letv", "sohu", "youku", "mgtv", "bilibili", "wasu", "xigua", "1905" ]
+    }
+  }, 
+{
+    "name" : "江湖",
+    "url" : "https://drpy.owen10086.repl.co/parse/api/江湖.js?url=",
+    "type" : 1,
+    "ext" : {
+      "flag" : [ "qiyi", "imgo", "爱奇艺", "奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", 
+
+"leshi", "bilibili", "哔哩哔哩", "哔哩", "mgtv", "芒果", "sohu", "xigua", "fun", "风行" ],
+      "header" : {
+        "User-Agent" : "Mozilla/5.0"
+      }
+    }
+  }, 
+{
+    "name" : "江湖",
+    "type" : 1,
+    "url" : "http://211.99.99.236:4567/jhjson/ceshi.php?url=",
+    "ext" : {
+      "flag" : [ "qiyi", "iqiyi", "奇艺", "爱奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "bilibili", 
+
+"哔哩哔哩", "哔哩", "mgtv", "芒果", "xigua", "西瓜", "sohu", "搜狐", "cntv", "cctv", "央视", "1905", "m1905" ]
+    }
+  }, 
+{
+    "name" : "神3",
+    "type" : 1,
+    "url" : "http://api.ckflv.cn/?url=",
+    "ext" : {
+      "flag" : [ "qiyi", "iqiyi", "奇艺", "爱奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "bilibili", "哔哩哔哩", "哔哩", 
+
+"mgtv", "芒果", "xigua", "西瓜", "sohu", "搜狐", "cntv", "cctv", "央视", "1905", "m1905" ]
+    }
+  }, 
+{
+    "name" : "风起陈留",
+    "type" : 1,
+    "url" : "http://pandown.pro/app/ysmjx.php?url=",
+    "ext" : {
+      "flag" : [ "qq", "qiyi", "mgtv", "youku", "letv", "sohu", "xigua", "1905", "优播线路", "腾播线路" ],
+      "header" : {
+        
+
+"User-Agent" : "Dart/2.14 (dart:io)"
+      }
+    }
+  }, 
+{
+    "name" : "📂公益2",
+    "type" : 1,
+    "url" : "http://3.37.195.161:54371/parse/api/江湖.js?url=",
+    "header" : {
+      "User-Agent" : "Mozilla/5.0"
+    }
+  }, 
+{
+    "name" : "📂自建8",
+    "type" : 1,
+    "url" : "http://3.37.195.161:54371/parse/api/dyg.js?url=",
+    "header" : {
+      "User-Agent" : "Mozilla/5.0"
+    }
+  }, 
 {
       "name": "多多①线",
       "type": 0,
