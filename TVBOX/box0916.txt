@@ -132,7 +132,6 @@
 {"key":"csp_xBPQ_HDIK影视","name": "HDIK影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/HDIK影视.json"},
 {"key":"csp_xBPQ_好看影视","name": "好看影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/好看影视.json"},
 {"key":"csp_xBPQ_小小影视","name": "小小影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/小小影视.json"},
-{"key":"csp_XYQBiu_17看球","name":"17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/17看球.json"},
 {"key":"csp_xBPQ_饭团TV","name": "饭团TV(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/饭团TV.json"},
 {"key":"csp_xBPQ_热播酷","name": "热播酷(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/热播酷.json"},
 
@@ -253,6 +252,7 @@
 {"key":"csp_XYQBiu_17看","name":"🏀17看","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/XYQxb/17看.json"},
 {"key":"csp_xpath_qiumi","name": "⚽球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://raw.liucn.cc/box/sub/ext/dj看球.json"},
 {"key":"csp_xpath_88kanqiu","name": "🏀88看球","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "http://神器每日推送.tk/xp/88看球.json"},
+{"key":"csp_XYQBiu_17看球","name":"17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXYQB/17看球.json"},
     {
       "key": "dr_88看球",
       "name": "⚽🏀88看球",
