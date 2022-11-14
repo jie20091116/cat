@@ -125,6 +125,17 @@
 {"key":"csp_xBPQ_乐猪tv","name":"🍀乐猪tv(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/乐猪tv.json"},
 {"key":"csp_xBPQ_厂长资源","name":"🍀厂长资源(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/厂长资源.json"},
 {"key":"csp_xBPQ_libvio","name":"🍀libvio(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/libvio.json"},
+{"key":"csp_xBPQ_23影视","name":"23影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/23影视.json"},
+{"key":"csp_xBPQ_e9视频","name":"e9视频(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/e9视频.json"},
+{"key":"csp_xBPQ_追剧猫","name": "追剧猫(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/追剧猫.json"},
+{"key":"csp_xBPQ_在线电影8","name": "在线电影8(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/在线电影8.json"},
+{"key":"csp_xBPQ_HDIK影视","name": "HDIK影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/HDIK影视.json"},
+{"key":"csp_xBPQ_好看影视","name": "好看影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/好看影视.json"},
+{"key":"csp_xBPQ_小小影视","name": "小小影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/小小影视.json"},
+{"key":"csp_XYQBiu_17看球","name":"17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/17看球.json"},
+{"key":"csp_xBPQ_饭团TV","name": "饭团TV(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/饭团TV.json"},
+{"key":"csp_xBPQ_热播酷","name": "热播酷(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/热播酷.json"},
+
 
 {"key":"csp_xBPQ_F7好看剧","name":"🍀F7好看剧(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/F7好看剧.json"},
 {"key":"csp_xBPQ_1080dy","name":"🍀1080电影(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/1080dy.json"},
