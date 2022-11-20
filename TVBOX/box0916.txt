@@ -7,7 +7,7 @@
 
 "sites":[
 {"key":"js豆瓣","name":"🅱豆瓣热播┃dr首页","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js"},
-{"key":"js豆瓣","name":"超前点播┃dr","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/JS/超前点播.js"},
+{"key":"js超前点播","name":"超前点播┃dr","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/JS/超前点播.js"},
 {"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_KanSJ","name":"🗽看视界┃杰哥推荐","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Bili","name":"🅱哔哩合集┃","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXB2/bilibili.json"},
