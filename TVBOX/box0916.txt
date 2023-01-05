@@ -163,15 +163,35 @@
 {"key":"js乐动影视","name":"乐动影视┃dr","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/JS/乐动影视.js"},
 {"key":"js超前点播","name":"超前点播┃dr","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/JS/超前点播.js"},
 
- {
-      "key": "csp_XYQ_lu1",
-      "name": "️🖥️电视直播",
-      "type": 3,
-      "api": "csp_XYQHiker",
+
+{
+      "key": "T4直播转点播",
+      "name": "📺︎电视点播",
+      "type": 4,
+      "api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA",
       "searchable": 1,
       "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key":"csp_XYQNM",
+      "name":"🖥️电视直播",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "playerType":2,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/ningmeng.json"
+      "ext": "https://yydsys.top/duo/json/ningmeng.json"
+    }, 
+        {
+      "key": "csp_Yj1211",
+      "name": "👑直播合集",
+      "type": 3,
+      "api": "csp_Yj1211",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "py_cctv",
@@ -219,15 +239,6 @@
       "filterable": 0
     },
 {"key":"csp_XYQBiu_聚合短视频","name":"📽️聚合短视频","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://神器每日推送.tk/XYQxb/分享短视频.json"},
-   {
-      "key": "csp_Yj1211",
-      "name": "📸直播合集",
-      "type": 3,
-      "api": "csp_Yj1211",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
     {
       "key": "网易CC",
       "name": "🐠网易CC",
