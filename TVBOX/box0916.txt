@@ -6,7 +6,7 @@
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vamllMjAwOTExMTYvY2F0L21haW4vVFZCT1gvbGl2ZS50eHQ="]}]}],
 
 "sites":[
-{"key":"js豆瓣","name":"🅱豆瓣热播&杰哥推荐首页","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/libs/drpy2.min.js","ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/js_drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"js豆瓣","name":"🅱豆瓣┃晓杰哥祝大家新年快乐！万事胜意！","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},
 {"key":"douban2","name":"🅱豆瓣荐片┃推荐首页","type":4,"api":"http://t4.饭太硬.ml/vod","searchable": 0,"quickSearch": 0,"filterable": 0},{"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_KanSJ","name":"🗽看视界┃杰哥推荐","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Bili","name":"🅱哔哩合集┃","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXB2/bilibili.json"},
