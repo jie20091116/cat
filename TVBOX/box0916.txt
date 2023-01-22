@@ -6,13 +6,9 @@
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vamllMjAwOTExMTYvY2F0L21haW4vVFZCT1gvbGl2ZS50eHQ="]}]}],
 
 "sites":[
-{"key":"js豆瓣","name":"🅱豆瓣┃晓杰哥祝大家新年快乐！万事胜意！","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},
+{"key":"js豆瓣","name":"🅱豆瓣┃晓杰哥祝大家新年快乐！万事胜意！","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},
 {"key":"douban2","name":"🅱豆瓣荐片┃推荐首页","type":4,"api":"http://t4.饭太硬.ml/vod","searchable": 0,"quickSearch": 0,"filterable": 0},{"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_KanSJ","name":"🗽看视界┃杰哥推荐","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"csp_Bili","name":"🅱哔哩合集┃","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXB2/bilibili.json"},
-{"key":"csp_Biliych","name":"🅱看演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"http://神器每日推送.tk/json/Biliych.json"},
-{"key":"csp_Sp_谁演唱会","name":"🅱️哔哩┃哗哩一集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/演唱会.php"},
-{"key":"csp_Sp_哗哩合集","name":"🅱️哔哩┃哗哩二集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/哔哩合集T2.php"},
 {"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXB2/alist.json"},
 {"key":"csp_Nmys","name":"🌾农民┃SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://神器每日推送.tk/json/nmys.json"},
 {"key":"csp_fant","name":"🍙饭团┃SP","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
@@ -101,7 +97,7 @@
 	{ "key": "AppTT","name": "🐰图图丨影视","type": 3, "api": "csp_Dora", "jar": "http://52bsj.vip:81/api/v3/file/get/67757/pandatt.jar?sign=uDCfqfGhWMeLGNQX3e9VotUF3QqldBePy0Xu2hr3Jb4%3D%3A0;md5; 3D6C99CAE168DA455AA766618BE7B604","ext": "110c922de7d69804467fb83d3bb664b5"},
 	{"key": "3EDY","name": "☘️3EDY〔SP〕","type": 3,"api": "csp_EEEDY","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-	{"key":"csp_xBPQ_乐猪影视","name":"🐷乐猪影视┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/68611/%E4%B9%90%E7%8C%AA.json?sign=3LCwJDKuCI_c1-ZE-Y75aw_BpTafG10Zh5mW4gwL7mU%3D%3A0"},
+{"key":"csp_xBPQ_乐猪影视","name":"🐷乐猪影视┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/68611/%E4%B9%90%E7%8C%AA.json?sign=3LCwJDKuCI_c1-ZE-Y75aw_BpTafG10Zh5mW4gwL7mU%3D%3A0"},
 {"key":"csp_XBPQ喵喵影视","name":"🎞️喵喵影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/63301/%E5%96%B5%E5%96%B5%E7%94%B5%E5%BD%B1%28xBPQ%29.json?sign=p_hgRusPwyUAgqE93wuJYsfG6rOhgSaIMuz0OlgUyoc%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/61833/xBPQ_1106.jar?sign=OVzxP6WlxeCthygathb2n4nXosg5HkE6NM9vkf3IFVk%3D%3A0"},
 {"key":"csp_XBPQ石榴影视","name":"🎞️石榴电影〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/63302/%E7%9F%B3%E6%A6%B4%E7%94%B5%E5%BD%B1%28xBPQ%29.json?sign=F59beX97EKduK2kehSA7Eb9Gbv78Fh2q8j_jcZJATr0%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/61833/xBPQ_1106.jar?sign=OVzxP6WlxeCthygathb2n4nXosg5HkE6NM9vkf3IFVk%3D%3A0"},
 {"key":"csp_XBPQTVB影视","name":"🎞️TVB云播〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/63303/TVB%E4%BA%91%E6%92%AD%28xBPQ%29.json?sign=D7u6b1vB57heVQdexskilQyAnu6CAOY0J1gIxm0wDvs%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/61833/xBPQ_1106.jar?sign=OVzxP6WlxeCthygathb2n4nXosg5HkE6NM9vkf3IFVk%3D%3A0"},
@@ -140,6 +136,11 @@
 {"key": "抖音小姐姐","name": "抖音小姐姐", "type": 4,"api": "http://120.53.102.254/xjj","searchable": 1,"quickSearch": 0,"filterable": 1 },
 {"key": "T4直播转点播","name": "T4直播转点播","type": 4,"api": "http://120.53.102.254/live?url=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA==","searchable": 1,"quickSearch": 1,"filterable": 1 },
 {"key": "MV大全","name": "MV大全","type": 4,"api": "http://120.53.102.254/dsp/", "searchable": 1, "quickSearch": 1, "filterable": 1},   
+
+{"key":"csp_Bili","name":"🅱哔哩合集┃","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXB2/bilibili.json"},
+{"key":"csp_Biliych","name":"🅱看演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"http://神器每日推送.tk/json/Biliych.json"},
+{"key":"csp_Sp_谁演唱会","name":"🅱️哔哩┃哗哩一集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/演唱会.php"},
+{"key":"csp_Sp_哗哩合集","name":"🅱️哔哩┃哗哩二集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/哔哩合集T2.php"},
 
 {"key":"csp_trj","name": "🛫唐人街┃墙外","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Nbys","name":"🛫泥视频┃墙外","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
