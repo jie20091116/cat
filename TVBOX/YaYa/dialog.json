@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "name": "新版本",
+      "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01lvG5sF2C4PfEV5UOV_!!913168420.png",
+      "url": "openApp.jdMobile://virtual?params=%7B%22url%22:%22https://u.jd.com/xtilN2v%22,%22M_sourceFrom%22:%22h5auto%22,%22des%22:%22m%22,%22sourceType%22:%22babel%22,%22msf_type%22:%22auto%22,%22sourceValue%22:%22babel-act%22,%22category%22:%22jump%22%7D",
+      "type": "app",     
+       "desc": "app",
+      "show": false,
+      "oneTime": false
+    }
+  ]
+}

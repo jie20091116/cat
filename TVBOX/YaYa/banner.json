@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "name": "更新日志",
+      "pic": "",
+      "url": "",
+      "type": "app",     
+       "desc": "app",
+      "show": false
+    },
+    {
+      "name": "财阀家的小儿子",
+      "pic": "https://img2.doubanio.com/view/photo/l/public/p2883220703.webp",
+      "url": "",
+      "type": "search",     
+       "desc": "",
+      "show": true
+    }
+  ]
+}
