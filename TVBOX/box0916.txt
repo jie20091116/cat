@@ -1,6 +1,6 @@
 {
 
-"spider":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/jar/xo.jar;md5;DCE4A45660B1E61B6F02113CBAB13E16",
+"spider":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/jar/xo1330.jar;md5;4BD2275690262E2B338920201A674539",
 "wallpaper":"http://壁纸.神器每日推送.tk",
 
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vamllMjAwOTExMTYvY2F0L21haW4vVFZCT1gvbGl2ZS50eHQ="]}]}],
@@ -54,7 +54,7 @@
 
 {"key":"Voflix","name":"🦊茶杯狐","type":3,"api":"csp_Voflix","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/jar/0112.jar"},
 {"key":"mtv_XBPQ_秋霞影视","name":"🌾秋霞影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/秋霞影视.json"},
-{"key":"Tian","name":"T3天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392", "jar":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/jar/ts.txt;md5; 45B1BEE74341DEAAFBCF02616D1563F3"},  
+{"key":"Tian","name":"T3天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392", "jar":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/jar/ts.jar;md5; 45B1BEE74341DEAAFBCF02616D1563F3"},  
 {"key": "csp_XYQ_lu1",
 "name": "️🍋柠檬电视┃直播",
 "type": 3,
