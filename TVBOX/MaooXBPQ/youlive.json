@@ -1,0 +1,19 @@
+{
+"作者":"菜妮丝",	
+"站名":"优直播",
+"主页url":"https://www.yoozhibo.com/",
+"二次截取":"list&&pages",
+"数组":"</span>&&/a>",
+"图片":"https://gitlab.com/duomv/duo/-/raw/main/txt/duotv.png",
+"标题":"target=\"_blank\">&&</",
+"链接":"href=\"&&\"",
+"线路二次截取":"video-tab&&id=",
+"线路数组":"<a&&</a>",
+"线路标题":">&&视频",
+"播放二次截取":"<div class=\"main-wrap sigs npt\">&&<div class=\"pl-wrap content\">",
+"播放数组":"d ncp&&</ul>",
+"播放列表":"<a&&/a>",
+"播放链接":"href=\"&&\"",
+"分类":"足球$zuqiu#篮球$lanqiu#综合$zonghe",
+"分类url":"https://www.yoozhibo.com/{cateId}/{class}/video-p{catePg}.html"
+}
