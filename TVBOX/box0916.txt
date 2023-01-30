@@ -257,7 +257,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/cctv.py"
+      "ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/py/cctv.py"
     },
      {
       "key": "py_czspp",
@@ -267,7 +267,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/czspp2.py"
+      "ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/py/czspp2.py"
     },
     {
       "key": "csp_xBPQ_真不卡",
@@ -277,7 +277,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/真不卡.json"
+      "ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/真不卡.json"
     },
 {"key":"Yisou","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"Zhaozy","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
@@ -303,10 +303,10 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E7%BD%91%E6%98%93CC.json"
+      "ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXYQB/网易cc.json"
     },
-{"key":"csp_XYQBiu_酷奇","name": "🎤MTV","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://神器每日推送.tk/XYQxb/酷奇MV.json"},
-{"key":"csp_XYQBiu_虎牙直播","name":"🐯虎牙","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/XYQxb/虎牙直播.json"},
+{"key":"csp_XYQBiu_酷奇","name": "🎤MTV","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXYQB/酷奇MV.json"},
+{"key":"csp_XYQBiu_虎牙直播","name":"🐯虎牙","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXYQB/虎牙直播.json"},
 //{"key":"csp_xbb_斗鱼","name":"🐟斗鱼","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/XYQxb/斗鱼直播.json"},
     {
       "key": "csp_biubiu_斗鱼",
@@ -316,12 +316,12 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E6%96%97%E9%B1%BC.json"
+      "ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXB2/%E6%96%97%E9%B1%BC.json"
     },
-{"key":"csp_XPath_鹅直播","name":"🐧鹅鹅直播","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/xp/企鹅直播.json"},
-{"key":"csp_XYQBiu_17看","name":"🏀17看","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/XYQxb/17看.json"},
-{"key":"csp_xpath_qiumi","name": "⚽球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://raw.liucn.cc/box/sub/ext/dj看球.json"},
-{"key":"csp_xpath_88kanqiu","name": "🏀88看球","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "http://神器每日推送.tk/xp/88看球.json"},
+{"key":"csp_XPath_鹅直播","name":"🐧鹅鹅直播","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXP/企鹅直播.json"},
+{"key":"csp_XYQBiu_17看","name":"🏀17看","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXYQB/17看.json"},
+{"key":"csp_xpath_qiumi","name": "⚽球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXP/dj看球.json"},
+{"key":"csp_xpath_88kanqiu","name": "🏀88看球","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXP/88看球.json"},
 {"key":"csp_XYQBiu_17看球","name":"17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXYQB/17看球.json"},
     {
       "key": "dr_88看球",
@@ -331,7 +331,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/js/88%E7%9C%8B%E7%90%83.js"
+      "ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/JS/88看球.json"
     },
 {"key":"csp_XYQBiu_310直播","name":"⚽310看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/XYQxb/310直播.json"},
 {"key":"csp_xpath_qiumi","name": "⚽Jrs球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://神器每日推送.tk/xp/dj看球.json"},
@@ -343,9 +343,9 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/js/JRKAN.js"
+      "ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/JS/JRKAN.js"
     },
-{"key":"csp_xBPQ_zf","name": "🏀抓饭体育","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "http://神器每日推送.tk/xbpq/抓饭体育.json"},
+{"key":"csp_xBPQ_zf","name": "🏀抓饭体育","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/抓饭体育.json"},
     {
       "key":"mtv_XBPQ_优直播",
       "name":"🏀优直播",
@@ -354,7 +354,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://yydsys.top/duo/json/youlive.json"
+      "ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/youlive.json"
       },
 {"key":"幼儿乐园","name":"📚幼儿乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://神器每日推送.tk/json/幼儿乐园.json"},
 {"key":"少儿教育","name":"📚少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://神器每日推送.tk/json/少儿教育.json"},
