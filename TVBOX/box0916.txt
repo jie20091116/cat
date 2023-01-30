@@ -13,6 +13,7 @@
 {"key":"csp_Nmys","name":"🌾农民┃SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/SP/nmys.json"},
 //{"key":"csp_fant","name":"🍙饭团┃SP","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"AppTT","name":"🐰图图┃SP","type":"3","api":"csp_Dora","playerType":2,"searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5"},
+{"key": "csp_AppTT2","name": "🗺️图图影视","type": 3,"api": "csp_AppTT2","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType":2,"ext": "http://154.39.64.151:5566"},
 //{"key":"csp_Nianying","name":"🐮NB┃SP","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lgyy","name":"🌀蓝光┃SP","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_BuLei","name":"💢布雷┃SP","type":3,"api":"csp_BuLei","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
@@ -54,7 +55,6 @@
 
 {"key":"Voflix","name":"🦊茶杯狐","type":3,"api":"csp_Voflix","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/jar/0112.jar"},
 {"key":"mtv_XBPQ_秋霞影视","name":"🌾秋霞影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/秋霞影视.json"},
-{"key":"Tian","name":"T3天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392", "jar":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/jar/ts.jar;md5; 45B1BEE74341DEAAFBCF02616D1563F3"},  
 {"key": "csp_XYQ_lu1",
 "name": "️🍋柠檬电视┃直播",
 "type": 3,
