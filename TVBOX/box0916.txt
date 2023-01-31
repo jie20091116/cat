@@ -115,7 +115,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://gitlab.com/duomv/duo/-/blob/main/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
+      "ext":"https://gitlab.com/duomv/duo/-/raw/main/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
     },
 	{
       "key": "XBPQ_电影先生",
@@ -125,7 +125,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/blob/main/json/filmMr.json"
+      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/filmMr.json"
     },
 	{
       "key": "XBPQ_HDIK",
@@ -135,7 +135,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/blob/main/json/HDIK.json"
+      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/HDIK.json"
     },
      {"key": "csp_xBPQ_电影天堂",
         "name":"🏖电影天堂",
