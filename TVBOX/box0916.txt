@@ -107,44 +107,6 @@
 {"key":"csp_XBPQ凌云影视","name":"🎞️凌云影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/%E5%87%8C%E4%BA%91%E5%BD%B1%E8%A7%86%28xBPQ%29.json","jar":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/jar/xBPQ_1106.jar"},
 
 
- {
-      "key": "csp_biubiu_骚火电影",
-      "name": "🔥骚火电影",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/blob/main/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
-    },
-	{
-      "key": "XBPQ_电影先生",
-      "name": "🤵🏻电影先生",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""https://gitlab.com/duomv/duo/-/blob/main/json/filmMr.json"
-    },
-	{
-      "key": "XBPQ_HDIK",
-      "name": "🍬HDIK影视",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""https://gitlab.com/duomv/duo/-/blob/main/json/HDIK.json"
-    },
-     {"key": "csp_xBPQ_电影天堂",
-        "name":"🏖电影天堂",
-        "type": 3,
-        "api": "csp_xBPQ",
-        "searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"0\",\"副标题\":\"right\\\">&&</span>\",\"播放标题\":\">&&</a>\",\"播放数组\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\"线路数组\": \"<img src=&&/h3>\",\"线路标题\": \">&&<\",\"分类\":\"电影$1#续集$2#综艺$3#动漫$4#世界杯$32\",\"分类url\":\"https://www.qiip.cc/vod/show/id/{cateId}.html\",\"筛选\":\"1\"}"},
-
-
-
 {"key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"https://ghproxy.com/https://raw.githubusercontent.com/jie20091116/cat/main/TVBOX/jar/apple1222.jar;md5;5a1c7c3f443667d69838a1adad3c977b"},
 {"key":"百影视频","name":"百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175","jar":"https://ghproxy.com/https://raw.githubusercontent.com/jie20091116/cat/main/TVBOX/jar/apple1222.jar;md5;5a1c7c3f443667d69838a1adad3c977b"},
 {"key":"dm77_spider","name":"齐齐动漫","api":"csp_DM77","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"","jar":"https://ghproxy.com/https://raw.githubusercontent.com/jie20091116/cat/main/TVBOX/jar/apple1222.jar;md5;5a1c7c3f443667d69838a1adad3c977b"},
