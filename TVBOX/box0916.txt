@@ -105,7 +105,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://gitlab.com/duomv/duo/-/raw/main/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
+      "ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
     },
 	{
       "key": "XBPQ_电影先生",
@@ -115,7 +115,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/filmMr.json"
+      "ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/filmMr.json"
     },
      {"key": "csp_xBPQ_电影天堂",
         "name":"🏖电影天堂",
@@ -467,17 +467,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/%E9%A5%AD%E5%9B%A2HD.json"
-    },
-	{
-      "key": "XBPQ_电影先生",
-      "name": "🤵🏻电影先生",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/filmMr.json"
+      "ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/%E9%A5%AD%E5%9B%A2HD.json"
     },
 	{
       "key": "XBPQ_HDIK",
@@ -487,7 +477,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/HDIK.json"
+      "ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/HDIK.json"
     },
      {"key": "csp_xBPQ_电影天堂",
         "name":"🏖电影天堂",
@@ -522,7 +512,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/tingshu.json"
+      "ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/tingshu.json"
     },
     {
       "key": "bdys",
@@ -592,16 +582,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://yydsys.top/duo/json/%E7%84%A6%E7%82%AD%E5%BD%B1%E8%A7%86.json"
-    },
-  {
-      "key": "csp_biubiu_骚火电影",
-      "name": "🔥骚火电影",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
     },
     {
       "key": "csp_biubiu_dadagui",
