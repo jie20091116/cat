@@ -117,16 +117,6 @@
       "filterable": 1,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/filmMr.json"
     },
-	{
-      "key": "XBPQ_HDIK",
-      "name": "🍬HDIK影视",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/HDIK.json"
-    },
      {"key": "csp_xBPQ_电影天堂",
         "name":"🏖电影天堂",
         "type": 3,
