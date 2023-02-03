@@ -37,11 +37,8 @@
 {"key":"csp_Cokemv","name":"📕可乐┃SP","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xinsj","name":"🐼新视觉┃SP","type":3,"api":"csp_Xinsj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Jianying","name":"✨简影┃SP","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext": 
-
 "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMzgxOSwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0xM1QxNjowMjo1NC4yOTMrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTEzVDE2OjAyOjU0LjI5MyswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjM1MTY3NzM4MTh
-
 AcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiOTBkNGZkZTgtM2U0NC00MDExLTlhZjItZDNhMGEwYTM1ZTc4IiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6
-
 IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjM2NjExMTgsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.7Rli6KT1wklDdLzKXtOlIjgeJouFdYswGc30t_iXoEw"},
 {"key":"csp_Lib","name": "🎉Lib┃SP","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Auete","name":"🏝Aue┃SP","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},	
@@ -62,15 +59,11 @@ IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjM2NjExMTgsImlzcyI6IkFsZnJl
 {"key":"mtv_pc_腾讯视频","name":"官方┃腾讯视频","type":3,"api":"csp_QQ"            ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_芒果视频","name":"官方┃芒果视频","type":3,"api":"csp_MGTV"          ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_xp_优酷视频","name":"官方┃优酷视频","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable":0,"quickSearch":0,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","
-
 科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片"]},
 {"key":"mtv_xp_皮皮视频","name":"官方┃PPTV视频","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/" ,"searchable":0,"quickSearch":0,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","
-
 科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片"]},
 //{"key": "3EDY","name": "☘️3EDY〔SP〕","type": 3,"api": "csp_EEEDY","searchable": 1,"quickSearch": 1,"filterable": 1},
-
 {"key":"sliu_spider", "name":"💎石榴丨影视", "type":3,"api":"csp_ShiLiuDY","filterable":1,"quickSearch":1,"playerType":2, "searchable":1,"jar":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/panda1123.jar;md5; 
-
 b1106a30c00023fc614c127cea04a331"},
 
 {"key":"csp_jihuang","name":"🚀剧荒┃SP","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
@@ -171,32 +164,18 @@ b1106a30c00023fc614c127cea04a331"},
 {"key":"csp_xBPQ_听书网","name":"听书网️","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/听书网.json"},
 
 
-{"key":"Voflix","name":"🦊茶杯狐","type":3,"api":"csp_Voflix","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/jar/0112.jar"},
-{"key":"mtv_XBPQ_秋霞影视","name":"🌾秋霞影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/秋霞影视.json"},
+{"key":"Voflix","name":"🦊茶杯狐","type":3,"api":"csp_Voflix","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/0112.jar"},
+{"key":"mtv_XBPQ_秋霞影视","name":"🌾秋霞影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBPQ/秋霞影视.json"},
 {"key":"csp_xBPQ_dszb","name":"📺电视直播","type": 3,"api": "csp_xBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://饭太硬.ga/x/电视直播.json"},
-{"key": "4K","name": " 🌸4K资源网","type": 3,"api": "csp_xBPQ","filterable": 1,"quickSearch": 1,"searchable": 1,"playerType": "1","ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/4kvm.json"},
-{"key":"csp_xBPQ_乐猪影视","name":"🐷乐猪影视┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/%E4%B9%90%E7%8C%AA.json"},
-{"key":"csp_XBPQ喵喵影视","name":"🎞️喵喵影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/%E5%96%B5%E5%96%B5%E7%94%B5%E5%BD%B1%28xBPQ
-
-%29.json","jar":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/jar/xBPQ_1106.jar"},
-{"key":"csp_XBPQ石榴影视","name":"🎞️石榴电影〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/%E7%9F%B3%E6%A6%B4%E7%94%B5%E5%BD%B1%28xBPQ
-
-%29.json","jar":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/jar/xBPQ_1106.jar"},
-{"key":"csp_XBPQTVB影视","name":"🎞️TVB云播〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/TVB%E4%BA%91%E6%92%AD%28xBPQ
-
-%29.json","jar":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/jar/xBPQ_1106.jar"},
-{"key":"csp_XBPQ吼吼影视","name":"🎞️吼吼影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/%E5%90%BC%E5%90%BC%28xBPQ
-
-%29.json","jar":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/jar/xBPQ_1106.jar"},
-{"key":"csp_XBPQ攻洛阁影视","name":"🎞️落阁影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/%E8%90%BD%E6%94%BB%E9%98%81%28xBPQ
-
-%29.json","jar":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/jar/xBPQ_1106.jar"},
-{"key":"csp_XBPQ诺讯影视","name":"🎞️诺讯影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/%E8%AF%BA%E8%AE%AF%E5%BD%B1%E8%A7%86%28xBPQ
-
-%29.json","jar":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/jar/xBPQ_1106.jar"},
-{"key":"csp_XBPQ凌云影视","name":"🎞️凌云影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/%E5%87%8C%E4%BA%91%E5%BD%B1%E8%A7%86%28xBPQ
-
-%29.json","jar":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/jar/xBPQ_1106.jar"},
+{"key": "4K","name": " 🌸4K资源网","type": 3,"api": "csp_xBPQ","filterable": 1,"quickSearch": 1,"searchable": 1,"playerType": "1","ext": "./MaooXBPQ/4kvm.json"},
+{"key":"csp_xBPQ_乐猪影视","name":"🐷乐猪影视┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./MaooXBPQ/%E4%B9%90%E7%8C%AA.json"},
+{"key":"csp_XBPQ喵喵影视","name":"🎞️喵喵影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBPQ/%E5%96%B5%E5%96%B5%E7%94%B5%E5%BD%B1%28xBPQ%29.json","jar":"./jar/xBPQ_1106.jar"},
+{"key":"csp_XBPQ石榴影视","name":"🎞️石榴电影〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBPQ/%E7%9F%B3%E6%A6%B4%E7%94%B5%E5%BD%B1%28xBPQ%29.json","jar":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/jar/xBPQ_1106.jar"},
+{"key":"csp_XBPQTVB影视","name":"🎞️TVB云播〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBPQ/TVB%E4%BA%91%E6%92%AD%28xBPQ%29.json","jar":"./jar/xBPQ_1106.jar"},
+{"key":"csp_XBPQ吼吼影视","name":"🎞️吼吼影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBPQ/%E5%90%BC%E5%90%BC%28xBPQ%29.json","jar":"./jar/xBPQ_1106.jar"},
+{"key":"csp_XBPQ攻洛阁影视","name":"🎞️落阁影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBPQ/%E8%90%BD%E6%94%BB%E9%98%81%28xBPQ%29.json","jar":"./jar/xBPQ_1106.jar"},
+{"key":"csp_XBPQ诺讯影视","name":"🎞️诺讯影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBPQ/%E8%AF%BA%E8%AE%AF%E5%BD%B1%E8%A7%86%28xBPQ%29.json","jar":"./jar/xBPQ_1106.jar"},
+{"key":"csp_XBPQ凌云影视","name":"🎞️凌云影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXBPQ/%E5%87%8C%E4%BA%91%E5%BD%B1%E8%A7%86%28xBPQ%29.json","jar":"./jar/xBPQ_1106.jar"},
 {"key": "XBPQ_电影先生","name": "🤵🏻电影先生","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXBPQ/filmMr.json"},
 {"key": "csp_xBPQ_电影天堂","name":"🏖电影天堂","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"0\",\"副标题\":\"right\\\">&&</span>\",\"播放标题\":\">&&</a>\",\"播放数组\":\"<ul class=\\
 
