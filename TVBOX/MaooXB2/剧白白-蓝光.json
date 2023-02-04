@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "剧白白-蓝光",
   "url": "https://www.jubaibai.cc",
   "tihuan": "cnzz.com",
@@ -17,11 +17,6 @@
   "biaotihou": "\"",
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
-
-  //新版Biubiu参数：副标题 (不需要的话，就不填写或者删除副标题2个字段也可以。)
-  "fubiaotiqian": "t text-right\"><b>",
-  "fubiaotihou": "</b>",
-
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=500",
   "sousuohouzhui": "/vod/",
@@ -40,22 +35,19 @@
   "ssbiaotihou": "空",
   "sslianjieqian": "空",
   "sslianjiehou": "空",
-
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
   "bfjiequshuzuqian": "class=\"stui-content__playlist sort-list",
   "bfjiequshuzuhou": "</ul>",
-
-  "zhuangtaiqian": "更新：",
+  "zhuangtaiqian": "class=\"data hidden-xs\">类型：",
   "zhuangtaihou": "</p>",
-  "daoyanqian": "导演：",
+  "daoyanqian": "class=\"data\">导演：",
   "daoyanhou": "</p>",
-  "zhuyanqian": "主演：",
+  "zhuyanqian": "class=\"data\">主演：",
   "zhuyanhou": "</p>",
-  "juqingqian": "display: none;\">",
+  "juqingqian": "style=\"display: none;\">",
   "juqinghou": "</span>",
-
   "bfyshifouercijiequ": "0",
   "bfyjiequqian": "空",
   "bfyjiequhou": "空",
