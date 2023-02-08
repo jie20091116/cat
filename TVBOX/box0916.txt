@@ -797,7 +797,7 @@
 {"key": "drpy_js_在线之家","name": "🖨在线之家","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/js/在线之家.js"},
 {"key":"drpy_js_大师兄影视","name":" 🧙‍大师兄影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/js/大师兄影视.js"},
 {"key":"drpy_js_凌云影视","name":" ☁凌云影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/js/凌云影视.js"},
-{"key":"drpy_js_孜然影视","name":" 🥩孜然影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/js/孜然影视.js"},
+//{"key":"drpy_js_孜然影视","name":" 🥩孜然影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/js/孜然影视.js"},
 
 
 {"key":"drpy_js_333影视","name":"3️⃣33影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/js/333影视.js"},
