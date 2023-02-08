@@ -1333,19 +1333,7 @@
 {"key":"在线之家","name":"‍👨🏻‍💻在线之家","api":"csp_Zxzj","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://download.kstore.space/download/2863/cs.jar;md5;83fb605345300da7c3d2c2f2a36c6cdc"},
 
 
-//{"key":"csp_Wmkk","name":"💯完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-//{"key":"Cokemv","name":"🦋Cokemv影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_LibVio","name":"🐱LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
-//=======================================================================================================
-{"key":"csp_IQIYI","name":"🥝爱","type":3,"api":"csp_IQIYI","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://download.kstore.space/download/2863/xsxin.jar;md5;76ddd410eca67676f4c23a24ae4c7df7"},
-{"key":"csp_MGTV","name":"🥭芒","type":3,"api":"csp_MGTV","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://download.kstore.space/download/2863/xsxin.jar;md5;76ddd410eca67676f4c23a24ae4c7df7"},
-{"key":"csp_QQ","name":"🐧腾","type":3,"api":"csp_QQ","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://download.kstore.space/download/2863/xsxin.jar;md5;76ddd410eca67676f4c23a24ae4c7df7"},
-{"key":"Ikan","name":"💞爱看影视","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_DiDuan","name":"🕳低端影视","type":3,"api":"csp_Ddrk", "click": "ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":1}, 
-{"key":"mjxq_spider","name":"🔮美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Yj1211","name":"📽️直播合集","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Anime1","name":"🌸小日本动漫","type":3,"api":"csp_Anime1","searchable":0,"quickSearch":0,"filterable":0},
-//直链源结束=================================================================================================
+
 
 {"key": "csp_XYQBiu_17看球","name":"🏀17看球(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://download.kstore.space/download/2863/xsxin.jar;md5;76ddd410eca67676f4c23a24ae4c7df7","ext":"https://download.kstore.space/download/2863/XYQ/17看球（XYQ）.json"},
 {"key": "csp_XYQBiu_追剧达人","name":"🚔追剧达人(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://download.kstore.space/download/2863/xsxin.jar;md5;76ddd410eca67676f4c23a24ae4c7df7","ext":"https://download.kstore.space/download/2863/XYQ/追剧达人（XYQ）.json"},
@@ -1354,9 +1342,13 @@
 {"key":"csp_XYQBiu_万能影院","name":"万能影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/万能影院.json","jar":"https://download.kstore.space/download/2863/xsxin.jar;md5;76ddd410eca67676f4c23a24ae4c7df7"},
 {"key":"csp_XYQBiu_虎牙直播","name":"虎牙直播(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/虎牙代理直链.json","jar":"https://download.kstore.space/download/2863/xsxin.jar;md5;76ddd410eca67676f4c23a24ae4c7df7"},
 {"key":"csp_XYQBiu_好恐怖磁力","name":"好恐怖磁力(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/好恐怖磁力.json","jar":"https://download.kstore.space/download/2863/xsxin.jar;md5;76ddd410eca67676f4c23a24ae4c7df7"},
-{"key":"csp_XYQBiu_神马筛选","name":"神马筛选(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/神马筛选.json","jar":"https://download.kstore.space/download/2863/xsxin.jar;md5;76ddd410eca67676f4c23a24ae4c7df7"},
+{"key":"csp_XYQBiu_神马筛选","name":"神马筛选(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/神马筛选.json","jar":"https://download.kstore.space/download/2863/xsxin.jar;md5;76ddd410eca67676f4c23a24ae4c7df7"}
 
-//XYQ结束========================================================================================================
+ 
+ 
+ 
+ 
+//*XYQ结束========================================================================================================
 
 {"key":"腾讯视频〔官源〕","name":"🐝腾讯〔官源〕","type":1,"api":"https://ikaola.tv/api.php/provide/vod/from/qq/?ac=list"},
 {"key":"爱奇艺会员〔官源〕","name":"🐝爱奇艺〔官源〕","type":1,"api":"https://ikaola.tv/api.php/provide/vod/from/qiyi/?ac=list"},
@@ -1919,7 +1911,7 @@
 {"key":"酷猫影视","name":"酷猫影视(聚)","type":1,"api":"https://www.pgcms10.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"胖猫影视","name":"胖猫影视(聚)","type":1,"api":"http://www.pangmaotv.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"嘛哩嘛哩","name":"嘛哩嘛哩(聚)","type":1,"api":"https://malimali3.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"海外电影","name":"海外电影(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","searchable":0,"quickSearch":0}
+{"key":"海外电影","name":"海外电影(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","searchable":0,"quickSearch":0}*//
 ],
 
 //解析设置
