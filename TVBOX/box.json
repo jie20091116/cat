@@ -1348,7 +1348,7 @@
  
  
  
-//*XYQ结束========================================================================================================
+/*XYQ结束========================================================================================================
 
 {"key":"腾讯视频〔官源〕","name":"🐝腾讯〔官源〕","type":1,"api":"https://ikaola.tv/api.php/provide/vod/from/qq/?ac=list"},
 {"key":"爱奇艺会员〔官源〕","name":"🐝爱奇艺〔官源〕","type":1,"api":"https://ikaola.tv/api.php/provide/vod/from/qiyi/?ac=list"},
@@ -1911,7 +1911,7 @@
 {"key":"酷猫影视","name":"酷猫影视(聚)","type":1,"api":"https://www.pgcms10.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"胖猫影视","name":"胖猫影视(聚)","type":1,"api":"http://www.pangmaotv.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"嘛哩嘛哩","name":"嘛哩嘛哩(聚)","type":1,"api":"https://malimali3.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"海外电影","name":"海外电影(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","searchable":0,"quickSearch":0}*//
+{"key":"海外电影","name":"海外电影(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","searchable":0,"quickSearch":0}*/
 ],
 
 //解析设置
