@@ -2,9 +2,21 @@
 
 "spider":"https://try.gitea.io/jie20091116/test1/raw/branch/main/xo1330.txt;md5;4bd2275690262e2b338920201a674539",
 "wallpaper":"http://壁纸.神器每日推送.tk",
-
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vamllMjAwOTExMTYvY2F0L21haW4vVFZCT1gvbGl2ZS50eHQ="]}]}],
 
+//"spider":"https://download.kstore.space/download/2863/ggtv.jar;md5;fc546c735827e5b3c2dfe91bfbe64350",
+//"lives":[{"name":"直播","type":0,"epg":"http://epg.51zmt.top:8000/api/diyp/","url":"https://download.kstore.space/download/2863/live.txt"}],
+//"lives":[{"name":"直播1","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt"}],
+//"lives":[{"name":"直播(道长)","type":0,"url":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/base/直播.txt"}],
+//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9kb3dubG9hZC5rc3RvcmUuc3BhY2UvZG93bmxvYWQvMjg2My9saXZlLnR4dA=="]}]}],
+//EPG地址：http://epg.51zmt.top:8000/api/diyp/,
+//"epg":"http://epg.51zmt.top:8000/api/diyp/",
+//epg配置地址写入配置lives下 "epg":"epgUrl";同时兼容蜂蜜的带参epg配置
+//"spider":"https://link.jscdn.cn/lanzou/aHR0cHM6Ly93d2QubGFuem91bC5jb20vaUlUZG8wOWIzeHFk.jpg;md5;3d7299943c04fc5baebfdc8632762edd",
+//"spider":"clan://TVBox/0718.jar",
+//"clan://localhost/TVBOX/01.txt",
+"drives": [{"server":"","userName":"","password":"","type":"webdav"}],
+ 
 "sites":[
 {"key":"js豆瓣","name":"🅱豆瓣┃晓杰哥祝大家新年快乐！万事胜意！","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js","searchable": 
 
@@ -793,11 +805,12 @@
 {"key": "csp_bendi","name": "📂本地视频","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 //=======潇洒=============================
+/*
 //js源=======================================================================================================
 {"key": "drpy_js_在线之家","name": "🖨在线之家","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/js/在线之家.js"},
 {"key":"drpy_js_大师兄影视","name":" 🧙‍大师兄影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/js/大师兄影视.js"},
 {"key":"drpy_js_凌云影视","name":" ☁凌云影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/js/凌云影视.js"},
-//{"key":"drpy_js_孜然影视","name":" 🥩孜然影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/js/孜然影视.js"},
+{"key":"drpy_js_孜然影视","name":" 🥩孜然影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/js/孜然影视.js"},
 
 
 {"key":"drpy_js_333影视","name":"3️⃣33影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/js/333影视.js"},
@@ -846,7 +859,7 @@
 {"key":"drpy_js_新安影院","name":"⛑新安影院","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/js/新安影院.js"},
 {"key":"drpy_js_短视频","name":"📺︎短视频","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/js/短视频.js"},
 {"key":"drpy_js_萌番","name":"🦦萌番","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/js/萌番.js"},
-
+*/
 //Js源=======================================================================================================
 {"key":"drpy_js_哔哩影视","name":"🇧哔哩影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/哔哩影视.js"},
 {"key":"drpy_js_小狗影视","name":"🐕️小狗影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/小狗影视.js"},
@@ -859,9 +872,9 @@
 {"key":"drpy_js_盛世电影网","name":"🗺️盛世电影网","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/盛世电影网.js"},
 {"key":"drpy_js_蜥蜴影视","name":"🦎蜥蜴影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/蜥蜴影视.js"},
 {"key":"drpy_js_100影院","name":"💯100影院","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/100影院.js"},
-{"key":"drpy_js_爱看剧影视","name":"🎦爱看剧影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/爱看剧影视.js"},
+//{"key":"drpy_js_爱看剧影视","name":"🎦爱看剧影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/爱看剧影视.js"},
 {"key":"drpy_js_干饭影视","name":"🍚干饭影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/干饭影视.js"},
-{"key":"drpy_js_饭团","name":"🍚饭团","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/饭团.js"},
+//{"key":"drpy_js_饭团","name":"🍚饭团","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/饭团.js"},
 {"key":"drpy_js_饭团影视","name":"🍚饭团影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/饭团影视.js"},
 {"key":"drpy_js_鸭奈飞","name":"🦆鸭奈飞","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/鸭奈飞.js"},
 {"key":"drpy_js_Fun4K","name":"⚔Fun4K","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/Fun4K.js"},
@@ -929,57 +942,57 @@
 {"key":"drpy_js_BD影视","name":"🥌BD影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/BD影视.js"},
 {"key":"drpy_js_私人影院","name":"⚜私人影院","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/私人影院.js"},
 {"key":"drpy_js_豆瓣","name":"🎖豆瓣","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/豆瓣.js"},
-{"key":"drpy_js_在线之家Ⅱ","name":"🎖在线之家Ⅱ","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/在线之家Ⅱ.js"},
+//{"key":"drpy_js_在线之家Ⅱ","name":"🎖在线之家Ⅱ","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/在线之家Ⅱ.js"},
 {"key":"drpy_js_剧荒","name":"🎖剧荒","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/剧荒.js"},
 {"key":"drpy_js_剧迷","name":"🎖剧迷","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/剧迷.js"},
 {"key":"drpy_js_drpy","name":"🎖‍drpy","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/drpy.js"},
-{"key":"drpy_js_天天开心","name":"🎖‍天天开心","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/18av.js"},
-{"key":"drpy_js_Missav","name":"🎖‍Missav","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/Missav.js"},
-{"key":"drpy_js_banan","name":"🎖‍banan","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/banan.js"},
-{"key":"drpy_js_吸瓜","name":"🎖‍吸瓜","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/吸瓜.js"},
-{"key":"drpy_js_朱古力","name":"🎖‍朱古力","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/朱古力.js"},
+//{"key":"drpy_js_天天开心","name":"🎖‍天天开心","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/18av.js"},
+//{"key":"drpy_js_Missav","name":"🎖‍Missav","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/Missav.js"},
+//{"key":"drpy_js_banan","name":"🎖‍banan","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/banan.js"},
+//{"key":"drpy_js_吸瓜","name":"🎖‍吸瓜","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/吸瓜.js"},
+//{"key":"drpy_js_朱古力","name":"🎖‍朱古力","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/朱古力.js"},
 {"key":"drpy_js_2099电影","name":"🎖‍2099电影","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/2099电影.js"},
-{"key":"drpy_js_31看影院","name":"🎖31看影院","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/31看影院.js"},
+//{"key":"drpy_js_31看影院","name":"🎖31看影院","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/31看影院.js"},
 {"key":"drpy_js_539影院","name":"🎖539影院","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/539影院.js"},
-{"key":"drpy_js_7喜影院","name":"🎖7喜影院","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/7喜影院.js"},
+//{"key":"drpy_js_7喜影院","name":"🎖7喜影院","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/7喜影院.js"},
 {"key":"drpy_js_9U电影","name":"🎖9U电影","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/9U电影.js"},
-{"key":"drpy_js_MXONE","name":"🎖MXONE","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/MXONE.js"},
+//{"key":"drpy_js_MXONE","name":"🎖MXONE","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/MXONE.js"},
 {"key":"drpy_js_TV云播","name":"🎖TV云播","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/TV云播.js"},
 {"key":"drpy_js_七小时影院","name":"🎖七小时影院","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/七小时影院.js"},
-{"key":"drpy_js_冲TV","name":"🎖冲TV","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/冲TV.js"},
+//{"key":"drpy_js_冲TV","name":"🎖冲TV","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/冲TV.js"},
 {"key":"drpy_js_利丽娅电影","name":"🎖利丽娅电影","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/利丽娅电影.js"},
 {"key":"drpy_js_南瓜影院","name":"🎖南瓜影院","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/南瓜影院.js"},
 {"key":"drpy_js_多瑙影视","name":"🎖多瑙影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/多瑙影视.js"},
 {"key":"drpy_js_天天视频","name":"🎖天天视频","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/天天视频.js"},
-{"key":"drpy_js_小宝影视","name":"🎖小宝影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/小宝影视.js"},
-{"key":"drpy_js_小宝影院","name":"🎖小宝影院","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/小宝影院.js"},
+//{"key":"drpy_js_小宝影视","name":"🎖小宝影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/小宝影视.js"},
+//{"key":"drpy_js_小宝影院","name":"🎖小宝影院","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/小宝影院.js"},
 {"key":"drpy_js_影渣渣","name":"🎖影渣渣","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/影渣渣.js"},
 {"key":"drpy_js_快云影院","name":"🎖快云影院","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/快云影院.js"},
 {"key":"drpy_js_捷华影视","name":"🎖捷华影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/捷华影视.js"},
-{"key":"drpy_js_欧乐影院","name":"🎖欧乐影院","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/欧乐影院.js"},
+//{"key":"drpy_js_欧乐影院","name":"🎖欧乐影院","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/欧乐影院.js"},
 {"key":"drpy_js_浮生半日","name":"🎖浮生半日","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/浮生半日.js"},
 {"key":"drpy_js_溪谷影视","name":"🎖溪谷影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/溪谷影视.js"},
 {"key":"drpy_js_爱看影视","name":"🎖爱看影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/爱看影视.js"},
-{"key":"drpy_js_皮皮泡","name":"🎖皮皮泡","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/皮皮泡.js"},
+//{"key":"drpy_js_皮皮泡","name":"🎖皮皮泡","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/皮皮泡.js"},
 {"key":"drpy_js_看了么","name":"🎖看了么","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/看了么.js"},
 {"key":"drpy_js_稀饭影视","name":"🎖稀饭影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/稀饭影视.js"},
 {"key":"drpy_js_美视网","name":"🎖美视网","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/美视网.js"},
-{"key":"drpy_js_艾旦影视","name":"🎖艾旦影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/艾旦影视.js"},
+//{"key":"drpy_js_艾旦影视","name":"🎖艾旦影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/艾旦影视.js"},
 {"key":"drpy_js_艾菲影视","name":"🎖艾菲影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/艾菲影视.js"},
 {"key":"drpy_js_落攻阁影视","name":"🎖落攻阁影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/落攻阁影视.js"},
 {"key":"drpy_js_蛋蛋魔法","name":"🎖蛋蛋魔法","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/蛋蛋魔法.js"},
-{"key":"drpy_js_视中心影视","name":"🎖视中心影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/视中心影视.js"},
+//{"key":"drpy_js_视中心影视","name":"🎖视中心影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/视中心影视.js"},
 {"key":"drpy_js_视觉影院","name":"🎖视觉影院","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/视觉影院.js"},
 {"key":"drpy_js_追剧啦","name":"🎖追剧啦","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/追剧啦.js"},
 {"key":"drpy_js_追剧迷","name":"🎖追剧迷","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/追剧迷.js"},
-{"key":"drpy_js_追剧影视","name":"🎖追剧影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/追剧影视.js"},
+//{"key":"drpy_js_追剧影视","name":"🎖追剧影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/追剧影视.js"},
 {"key":"drpy_js_金曼影视","name":"🎖金曼影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/金曼影视.js"},
 {"key":"drpy_js_霹雳影视","name":"🎖霹雳影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/霹雳影视.js"},
 {"key":"drpy_js_首播影院","name":"🎖首播影院","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/首播影院.js"},
 {"key":"drpy_js_99影院","name":"🎖99影院","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/99影院.js"},
 {"key":"drpy_js_石榴影院","name":"🎖石榴影院","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/石榴影院.js"},
 {"key":"drpy_js_大中影视","name":"🎖大中影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/大中影视.js"},
-{"key":"drpy_js_煲剧吧","name":"🎖煲剧吧","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/煲剧吧.js"},
+//{"key":"drpy_js_煲剧吧","name":"🎖煲剧吧","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/煲剧吧.js"},
 {"key":"drpy_js_追剧兔","name":"🎖追剧兔","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/追剧兔.js"},
 {"key":"drpy_js_闪影影院","name":"🎖闪影影院","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/闪影影院.js"},
 {"key":"drpy_js_天天影视","name":"🎖天天影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/天天影视.js"},
@@ -988,257 +1001,85 @@
 {"key":"drpy_js_麻花影视","name":"🎖麻花影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/麻花影视.js"},
 {"key":"drpy_js_乐鱼影视","name":"🎖乐鱼影视","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/乐鱼影视.js"},
 {"key":"drpy_js_爱猫影院","name":"🎖爱猫影院","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/爱猫影院.js"},
-{"key":"drpy_js_猫影汇","name":"🎖猫影汇","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/猫影汇.js"},
+//{"key":"drpy_js_猫影汇","name":"🎖猫影汇","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/猫影汇.js"},
 {"key":"drpy_js_超前点播","name":"🎖超前点播","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/超前点播.js"},
+
+
+
 
 {"key":"drpy_js_天空影视","name":"🕵‍天空影视🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/天空影视.js"},
 {"key":"drpy_js_厂长资源","name":"🕵‍厂长资源🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/厂长资源.js"},
-{"key":"drpy_js_快看","name":"🕵快看🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/快看.js"},
+//{"key":"drpy_js_快看","name":"🕵快看🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/快看.js"},
 {"key":"drpy_js_360影视","name":"🕵360影视🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/360影视.js"},
 {"key": "drpy_js_真不卡","name": "🕵真不卡🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/真不卡.js"},
 {"key":"drpy_js_完美看看","name":"🕵完美看看🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/完美看看.js"},
-{"key": "drpy_js_555影视","name": "🕵555影视🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/555影视.js"},
+//{"key": "drpy_js_555影视","name": "🕵555影视🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/555影视.js"},
 {"key":"drpy_js_AGE动漫","name":"🕵AGE动漫🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/AGE动漫.js"},
 {"key": "drpy_js_1080P","name": "🕵1080P🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/1080P.js"},
 {"key": "drpy_js_AnFuns","name": "🕵AnFuns🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/AnFuns.js"},
-    {
-      "key": "drpy_js_007影视",
-      "name": "🕵007影视🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/007影视.js"
-    },
-    {
-      "key": "drpy_js_cokemv",
-      "name": "🕵cokemv🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/cokemv.js"
-    },
-    {
-      "key": "drpy_js_drpy",
-      "name": "🕵drpy🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/dr/drpy.js"
-    },
-    {
-      "key": "drpy_js_LIBVIO",
-      "name": "🕵LIBVIO🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/LIBVIO.js"
-    },
-    {
-      "key": "drpy_js_vip影院",
-      "name": "🕵vip影院🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/vip影院.js"
-    },
-    {
-      "key": "drpy_js_百忙无果",
-      "name": "🕵百忙无果🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/百忙无果.js"
-    },
-    {
-      "key": "drpy_js_菜狗",
-      "name": "🕵菜狗🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/菜狗.js"
-    },
-{"key": "drpy_js_大米星球","name": "🕵大米星球🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/大米星球.js"},
-    {
-      "key": "drpy_js_番茄影视",
-      "name": "🕵番茄影视🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/番茄影视.js"
-    },
-    {
-      "key": "drpy_js_瓜皮TV",
-      "name": "🕵瓜皮TV🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/瓜皮TV.js"
-    },
-    {
-      "key": "drpy_js_剧白白",
-      "name": "🕵剧白白🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/剧白白.js"
-    },
-    {
-      "key": "drpy_js_看视界",
-      "name": "🕵看视界🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/看视界.js"
-    },
-    {
-      "key": "drpy_js_库马伊",
-      "name": "🕵库马伊🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/库马伊.js"
-    },
-    {
-      "key": "drpy_js_酷云77",
-      "name": "🕵酷云77🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/酷云77.js"
-    },
-    {
-      "key": "drpy_js_蓝光影院",
-      "name": "🕵蓝光影院🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/蓝光影院.js"
-    },
-    {
-      "key": "drpy_js_蓝莓影视",
-      "name": "🕵蓝莓影视🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/蓝莓影视.js"
-    },
-    {
-      "key": "drpy_js_猫了个咪",
-      "name": "🕵猫了个咪🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/猫了个咪.js"
-    },
-    {
-      "key": "drpy_js_喵喵",
-      "name": "🕵喵喵🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/喵喵.js"
-    },
-    {
-      "key": "drpy_js_牛马TV",
-      "name": "🕵牛马TV🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/牛马TV.js"
-    },
-    {
-      "key": "drpy_js_奇优影院",
-      "name": "🕵奇优影院🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/奇优影院.js"
-    },
-    {
-      "key": "drpy_js_奇珍异兽",
-      "name": "🕵奇珍异兽🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/奇珍异兽.js"
-    },
-    {
-      "key": "drpy_js_人人影视",
-      "name": "🕵人人影视🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/人人影视.js"
-    },
-    {
-      "key": "drpy_js_兔小贝",
-      "name": "🕵兔小贝🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/兔小贝.js"
-    },
-    {
-      "key": "drpy_js_万能影视",
-      "name": "🕵万能影视🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/万能影视.js"
-    },
-    {
-      "key": "drpy_js_小猫咪",
-      "name": "🕵小猫咪🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/小猫咪.js"
-    },
-    {
-      "key": "drpy_js_小强迷",
-      "name": "🕵小强迷🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/小强迷.js"
-    },
-    {
-      "key": "drpy_js_玄天",
-      "name": "🕵玄天🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/玄天.js"
-    },
-    {
-      "key": "drpy_js_夜空",
-      "name": "🕵夜空🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/夜空.js"
-    },
-    {
-      "key": "drpy_js_影视工厂",
-      "name": "🕵影视工厂🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/影视工厂.js"
-    },
-    {
-      "key": "drpy_js_优酷",
-      "name": "🕵优酷🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/优酷.js"
-    },
-    {
-      "key": "drpy_js_追剧喵",
-      "name": "🕵追剧喵🕵",
-      "type": 3,
-      "api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js",
-      "ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/追剧喵.js"
-    },
+{"key": "drpy_js_007影视","name": "🕵007影视🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/007影视.js"},
+{"key": "drpy_js_cokemv","name": "🕵cokemv🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/cokemv.js"},
 
-{"key":"drpy_js_素白白","name":"🕵素白白🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/素白白.js"},
-{"key":"drpy_js_麦豆","name":"🕵麦豆🕵","type": 3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/麦豆.js"},
-{"key":"drpy_js_麦豆com","name":"🕵麦豆com🕵","type": 3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/麦豆com.js"},
+
+{"key": "drpy_js_drpy","name": "🕵drpy🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/dr/drpy.js"},
+{"key": "drpy_js_LIBVIO","name": "🕵LIBVIO🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/LIBVIO.js"},
+//{"key": "drpy_js_vip影院","name": "🕵vip影院🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/vip影院.js"},
+{"key": "drpy_js_百忙无果","name": "🕵百忙无果🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/百忙无果.js"},
+{"key": "drpy_js_菜狗","name": "🕵菜狗🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/菜狗.js"},
+{"key": "drpy_js_大米星球","name": "🕵大米星球🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/大米星球.js"},
+{"key": "drpy_js_番茄影视","name": "🕵番茄影视🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/番茄影视.js"},
+//{"key": "drpy_js_瓜皮TV","name": "🕵瓜皮TV🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/瓜皮TV.js"},
+//{"key": "drpy_js_剧白白","name": "🕵剧白白🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/剧白白.js"},
+//{"key": "drpy_js_看视界","name": "🕵看视界🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/看视界.js"},
+//{"key": "drpy_js_库马伊","name": "🕵库马伊🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/库马伊.js"},
+{"key": "drpy_js_酷云77","name": "🕵酷云77🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/酷云77.js"},
+{"key": "drpy_js_蓝光影院","name": "🕵蓝光影院🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/蓝光影院.js"},
+//{"key": "drpy_js_蓝莓影视","name": "🕵蓝莓影视🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/蓝莓影视.js"},
+{"key": "drpy_js_猫了个咪","name": "🕵猫了个咪🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/猫了个咪.js"},
+{"key": "drpy_js_喵喵","name": "🕵喵喵🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/喵喵.js"},
+//{"key": "drpy_js_牛马TV","name": "🕵牛马TV🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/牛马TV.js"},
+{"key": "drpy_js_奇优影院","name": "🕵奇优影院🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/奇优影院.js"},
+{"key": "drpy_js_奇珍异兽","name": "🕵奇珍异兽🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/奇珍异兽.js"},
+{"key": "drpy_js_人人影视","name": "🕵人人影视🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/人人影视.js"},
+{"key": "drpy_js_兔小贝","name": "🕵兔小贝🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/兔小贝.js"},
+{"key": "drpy_js_万能影视","name": "🕵万能影视🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/万能影视.js"},
+//{"key": "drpy_js_小猫咪","name": "🕵小猫咪🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/小猫咪.js"},
+//{"key": "drpy_js_小强迷","name": "🕵小强迷🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/小强迷.js"},
+{"key": "drpy_js_玄天","name": "🕵玄天🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/玄天.js"},
+//{"key": "drpy_js_夜空","name": "🕵夜空🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/夜空.js"},
+//{"key": "drpy_js_影视工厂","name": "🕵影视工厂🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/影视工厂.js"},
+{"key": "drpy_js_优酷","name": "🕵优酷🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/优酷.js"},
+//{"key": "drpy_js_追剧喵","name": "🕵追剧喵🕵","type": 3,"api": "https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext": "https://raw.fastgit.org/jie20091116/TVboxo/main/Js/追剧喵.js"},
+
+//{"key":"drpy_js_素白白","name":"🕵素白白🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/素白白.js"},
+//{"key":"drpy_js_麦豆com","name":"🕵麦豆com🕵","type": 3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/麦豆com.js"},
 {"key":"drpy_js_秋霞","name":"🕵秋霞🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/秋霞.js"},
 {"key":"drpy_js_RP影视","name":"🕵RP影视🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/RP影视.js"},
 {"key":"drpy_js_TV蜂","name":"🕵TV蜂🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/TV蜂.js"},
-{"key":"drpy_js_tva云播","name":"🕵tva云播🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/tva云播.js"},
+//{"key":"drpy_js_tva云播","name":"🕵tva云播🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/tva云播.js"},
 {"key":"drpy_js_vidhub","name":"🕵vidhub🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/vidhub.js"},
-{"key":"drpy_js_voflix","name":"🕵voflix🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/voflix.js"},
-{"key":"drpy_js_蛋蛋赞","name":"🕵蛋蛋赞🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/蛋蛋赞.js"},
+//{"key":"drpy_js_voflix","name":"🕵voflix🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/voflix.js"},
+//{"key":"drpy_js_蛋蛋赞","name":"🕵蛋蛋赞🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/蛋蛋赞.js"},
 {"key":"drpy_js_尘落影视","name":"🕵尘落影视🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/尘落影视.js"},
 {"key":"drpy_js_唐人街影视","name":"🕵唐人街影视🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/唐人街影视.js"},
 {"key":"drpy_js_双十电影","name":"🕵双十电影🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/双十电影.js"},
-{"key":"drpy_js_星辰","name":"🕵星辰🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/星辰.js"},
-{"key":"drpy_js_四个圈影视","name":"🕵四个圈影视🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/四个圈影视.js"},
-{"key":"drpy_js_gaze","name":"🕵gaze🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/gaze.js"},
-{"key":"drpy_js_omofun动漫","name":"🕵omofun动漫🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/omofun动漫.js"},
+//{"key":"drpy_js_星辰","name":"🕵星辰🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/星辰.js"},
+//{"key":"drpy_js_四个圈影视","name":"🕵四个圈影视🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/四个圈影视.js"},
+//{"key":"drpy_js_gaze","name":"🕵gaze🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/gaze.js"},
+//{"key":"drpy_js_omofun动漫","name":"🕵omofun动漫🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/omofun动漫.js"},
 {"key":"drpy_js_异世界动漫","name":"🕵异世界动漫🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/异世界动漫.js"},
 {"key":"drpy_js_188看","name":"🕵188看🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/188看.js"},
 {"key":"drpy_js_小白菜电影","name":"🕵小白菜电影🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/小白菜电影.js"},
 {"key":"drpy_js_新视觉影视","name":"🕵新视觉影视🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/新视觉影视.js"},
 {"key":"drpy_js_趣享星趣","name":"🕵趣享星趣🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/趣享星趣.js"},
-{"key":"drpy_js_爱酷影视","name":"🕵爱酷影视🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/爱酷影视.js"},
+//{"key":"drpy_js_爱酷影视","name":"🕵爱酷影视🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/爱酷影视.js"},
 {"key":"drpy_js_我爱电影网","name":"🕵我爱电影网🕵","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/我爱电影网.js"},
 
-//直播视频
+
+
+
+
+/*直播视频
 {"key":"drpy_js_短视频","name":"🎥短视频","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/短视频.js"},
 {"key":"drpy_js_有声小说吧","name":"🎥有声小说吧","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/有声小说吧.js"},
 {"key":"drpy_js_听书网","name":"🎥听书网","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/听书网.js"},
@@ -1259,7 +1100,7 @@
 //{"key":"drpy_js_学生球赛录像","name":"🎥学生球赛录像","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/学生球赛录像[js1].js"},
 {"key":"drpy_js_爱车MV","name":"🎥爱车MV","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/爱车MV.js"},
 {"key":"drpy_js_酷奇MV","name":"🎥酷奇MV","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/酷奇MV.js"},
-{"key":"drpy_js_DJ音乐","name":"🎥DJ音乐","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/DJ音乐.js"},
+{"key":"drpy_js_DJ音乐","name":"🎥DJ音乐","type":3,"api":"https://raw.fastgit.org/jie20091116/TVboxo/main/libs/drpy.min.js","ext":"https://raw.fastgit.org/jie20091116/TVboxo/main/Js/DJ音乐.js"},*/
 
 //js源结束地址========================================================================================================
 {"key": "csp_xBPQ_小强迷","name":"🐞小强迷(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/yxcqr/TVboxo@main/XBPQ/小强迷.json"},
@@ -1307,7 +1148,7 @@
 
 
 {"key": "csp_XYQBiu_17看球","name":"🏀17看球(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://download.kstore.space/download/2863/xsxin.jar;md5;76ddd410eca67676f4c23a24ae4c7df7","ext":"https://download.kstore.space/download/2863/XYQ/17看球（XYQ）.json"},
-{"key": "csp_XYQBiu_追剧达人","name":"🚔追剧达人(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XYQ/追剧达人（XYQ）.json","jar":"https://download.kstore.space/download/2863/xsxin.jar;md5;76ddd410eca67676f4c23a24ae4c7df7"},
+//{"key": "csp_XYQBiu_追剧达人","name":"🚔追剧达人(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XYQ/追剧达人（XYQ）.json","jar":"https://download.kstore.space/download/2863/xsxin.jar;md5;76ddd410eca67676f4c23a24ae4c7df7"},
 {"key":"csp_XYQBiu_短视频","name":"分享短视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/分享短视频.json","jar":"https://download.kstore.space/download/2863/xsxin.jar;md5;76ddd410eca67676f4c23a24ae4c7df7"},
 {"key":"csp_XYQBiu_凌云影视","name":"凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/凌云影视.json","jar":"https://download.kstore.space/download/2863/xsxin.jar;md5;76ddd410eca67676f4c23a24ae4c7df7"},
 {"key":"csp_XYQBiu_万能影院","name":"万能影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/万能影院.json","jar":"https://download.kstore.space/download/2863/xsxin.jar;md5;76ddd410eca67676f4c23a24ae4c7df7"},
