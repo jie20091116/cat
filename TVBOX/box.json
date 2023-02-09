@@ -1,10 +1,10 @@
 {
 
-"spider":"https://try.gitea.io/jie20091116/test1/raw/branch/main/xo1330.txt;md5;4bd2275690262e2b338920201a674539",
+//"spider":"https://try.gitea.io/jie20091116/test1/raw/branch/main/xo1330.txt;md5;4bd2275690262e2b338920201a674539",
 "wallpaper":"http://壁纸.神器每日推送.tk",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vamllMjAwOTExMTYvY2F0L21haW4vVFZCT1gvbGl2ZS50eHQ="]}]}],
 
-//"spider":"https://download.kstore.space/download/2863/ggtv.jar;md5;fc546c735827e5b3c2dfe91bfbe64350",
+"spider":"https://download.kstore.space/download/2863/ggtv.jar;md5;fc546c735827e5b3c2dfe91bfbe64350",
 //"lives":[{"name":"直播","type":0,"epg":"http://epg.51zmt.top:8000/api/diyp/","url":"https://download.kstore.space/download/2863/live.txt"}],
 //"lives":[{"name":"直播1","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt"}],
 //"lives":[{"name":"直播(道长)","type":0,"url":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/base/直播.txt"}],
@@ -81,7 +81,6 @@
 {"key":"csp_Ying","name":"💮樱花动漫┃SP","type":3,"api":"csp_Ying","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysj","name":"🎀异界动漫┃SP","type":3,"api":"csp_Ysj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"drpy_js_孜然影视","name":" 🥩孜然影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/孜然影视.js"},
 
 //------------------------------------XBPQ---------------------------------------
 {"key":"csp_xBPQ_苹果电影网","name":"苹果电影网","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/苹果电影网.json"},
