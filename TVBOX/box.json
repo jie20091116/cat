@@ -65,7 +65,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://api-tx.shumaxc.xyz"
+      "ext": "https://api-tx.11ty.top"
     },
     {
       "key": "csp_AppTT",
@@ -79,6 +79,16 @@
       "ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
     },
     {
+      "key": "csp_MeiJu69",
+      "name": "🗽69美剧┃直连",
+      "type": 3,
+      "api": "csp_MeiJu69",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.69mj.com/"
+    },
+    {
       "key": "csp_BuLei",
       "name": "💢布雷┃直连",
       "type": 3,
@@ -87,26 +97,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.bulei.cc"
-    },
-    {
-      "key": "csp_77",
-      "name": "👒七七┃App",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_AppMr",
-      "name": "👻明明┃App",
-      "type": 3,
-      "api": "csp_AppMr",
-      "m3u8ads": "hd.youyhn.com",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "ext": "https://v.bulei.cc/"
     },
     {
       "key": "csp_apple",
@@ -158,6 +149,25 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.6080dy3.com"
+    },
+    {
+      "key": "csp_77",
+      "name": "👒七七┃App",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_AppMr",
+      "name": "👻明明┃App",
+      "type": 3,
+      "api": "csp_AppMr",
+      "m3u8ads": "hd.youyhn.com",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "csp_Czsapp",
@@ -264,7 +274,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./Nmys/nmys.json"
+      "ext": "http://xn--sss604efuw.ga/x/Nmys/nmys.json"
     },
     {
       "key": "csp_Ysgc",
@@ -317,50 +327,48 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./Hlsp/黑料.json"
+      "ext": "http://xn--sss604efuw.ga/x/Hlsp/黑料.json"
     },
     {
-      "key": "csp_SP360",
+      "key": "csp_SP33",
       "name": "📺三三┃解析",
       "type": 3,
-      "api": "csp_SP360",
-      "m3u8ads": "hd.youyhn.com",
+      "api": "csp_SP33",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0
     },
     {
-      "key": "teng",
+      "key": "Qtv",
       "name": "🐧腾腾┃解析",
       "type": 3,
-      "api": "csp_QQ",
+      "api": "csp_Qtv",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0
     },
     {
-      "key": "ai",
+      "key": "Itv",
       "name": "🥝爱爱┃解析",
       "type": 3,
-      "api": "csp_IQIYI",
+      "api": "csp_Itv",
       "quickSearch": 1,
       "searchable": 1,
       "filterable": 1,
       "changeable": 0
     },
     {
-      "key": "MGT",
+      "key": "Mtv",
       "name": "🍋芒芒┃解析",
       "type": 3,
-      "api": "csp_Mgtv",
+      "api": "csp_Mtv",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0
     },
- 
  {"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_KanSJ","name":"🗽看视界┃杰哥推荐","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXB2/alist.json"},
