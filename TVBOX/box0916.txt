@@ -79,7 +79,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.69mj.com/",
-      "jar": "https://try.gitea.io/jie20091116/test1/raw/branch/main/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+      "jar": "https://try.gitea.io/jie20091116/test1/raw/branch/main//0317fty.jar;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
     },
     {
       "key": "csp_BuLei",
@@ -102,7 +102,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://tv.libvio.cc/",
-      "jar": "https://try.gitea.io/jie20091116/test1/raw/branch/main/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+      "jar": "https://try.gitea.io/jie20091116/test1/raw/branch/main//0317fty.jar;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
     },
     {
       "key": "csp_fantuan",
