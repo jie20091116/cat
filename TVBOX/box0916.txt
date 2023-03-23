@@ -56,7 +56,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://api-tx.11ty.top",
-      "jar": "https://yimitool.com/i/2023/03/23/nswqlq.bmp"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jie20091116/cat/main/TVBOX/jar/fty0321.bmp"
     },
     {
       "key": "csp_AppTT",
