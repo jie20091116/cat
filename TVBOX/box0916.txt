@@ -79,7 +79,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.69mj.com/",
-      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+      "jar": "img+https://raw.iqiq.io/jie20091116/cat/main/TVBOX/jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
     },
     {
       "key": "csp_BuLei",
@@ -91,7 +91,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://v.bulei.cc/",
-      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+      "jar": "https://raw.iqiq.io/jie20091116/cat/main/TVBOX/jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
     },
     {
       "key": "csp_apple",
