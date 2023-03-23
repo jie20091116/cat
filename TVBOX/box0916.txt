@@ -3,6 +3,7 @@
 "spider":"https://try.gitea.io/jie20091116/test1/raw/branch/main/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8",
 "wallpaper":"http://壁纸.神器每日推送.tk",
 //"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+"warningText": "完全免费，切勿付费购买--杰哥。",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vamllMjAwOTExMTYvY2F0L21haW4vVFZCT1gvbGl2ZS50eHQ="]}]}],
 
 //"spider":"https://download.kstore.space/download/2863/ggtv.jar;md5;fc546c735827e5b3c2dfe91bfbe64350",
