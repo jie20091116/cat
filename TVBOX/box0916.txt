@@ -125,7 +125,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.fantuanhd.com",
-      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+      "jar": "img+https://ghproxy.com/https://raw.githubusercontent.com/jie20091116/cat/main/TVBOX/jar/fty0321.bmp"
     },
     {
       "key": "csp_Vofl",
