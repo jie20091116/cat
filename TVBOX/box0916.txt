@@ -56,7 +56,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://api-tx.11ty.top",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jie20091116/cat/main/TVBOX/jar/fty0321.bmp"
+      "jar": "https://try.gitea.io/jie20091116/test1/raw/branch/main/panda230311a.jar;md5;492f9401fec7d490f6f2e48f045e1580"
     },
     {
       "key": "csp_AppTT",
