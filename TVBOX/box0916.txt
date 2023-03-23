@@ -45,7 +45,7 @@
 //{"key":"csp_zxzj","name":"📗在线┃SP","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Tkys","name": "🔃天空┃SP","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-    {
+{
       "key": "csp_YQKAPP",
       "name": "🎉一起看┃App",
       "type": 3,
@@ -56,9 +56,9 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://api-tx.11ty.top",
-      "jar": "img+https://try.gitea.io/jie20091116/test1/raw/branch/main/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
     },
-{
+    {
       "key": "csp_AppTT",
       "name": "🐰图图┃App",
       "type": 3,
@@ -68,7 +68,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==",
-      "jar": "https://try.gitea.io/jie20091116/test1/raw/branch/main/0317fty.jar;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
     },
     {
       "key": "csp_MeiJu69",
@@ -79,7 +79,305 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.69mj.com/",
-      "jar": "img+https://try.gitea.io/jie20091116/test1/raw/branch/main/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+    },
+    {
+      "key": "csp_BuLei",
+      "name": "💢布雷┃直连",
+      "type": 3,
+      "api": "csp_BuLei",
+      "m3u8ads": "hd.youyhn.com",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://v.bulei.cc/",
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+    },
+    {
+      "key": "csp_apple",
+      "name": "🍎苹果┃App",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+    },
+    {
+      "key": "csp_Lib",
+      "name": "🌟利奥┃直连",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://tv.libvio.cc/",
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+    },
+    {
+      "key": "csp_fantuan",
+      "name": "🍙饭团┃直连",
+      "type": 3,
+      "api": "csp_Fantuan",
+      "m3u8ads": "hd.youyhn.com",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.fantuanhd.com",
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+    },
+    {
+      "key": "csp_Vofl",
+      "name": "🎈Vofl┃直连",
+      "type": 3,
+      "api": "csp_Voflix",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+    },
+    {
+      "key": "csp_Xinsj",
+      "name": "🐼新视觉┃直连",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "m3u8ads": "hd.youyhn.com",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.6080dy3.com",
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+    },
+    {
+      "key": "csp_77",
+      "name": "👒七七┃App",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+    },
+    {
+      "key": "csp_AppMr",
+      "name": "👻明明┃App",
+      "type": 3,
+      "api": "csp_AppMr",
+      "m3u8ads": "hd.youyhn.com",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+    },
+    {
+      "key": "csp_Czsapp",
+      "name": "📔厂长┃直连",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "m3u8ads": "hd.youyhn.com",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+    },
+    {
+      "key": "csp_DiDuan",
+      "name": "⏮低端┃直连",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+    },
+    {
+      "key": "csp_Cokemv",
+      "name": "📕可乐┃直连",
+      "type": 3,
+      "api": "csp_Cokemv",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+    },
+    {
+      "key": "csp_Auete",
+      "name": "🏝奥特┃直连",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+    },
+    {
+      "key": "csp_Bttoo",
+      "name": "✌比特┃直连",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+    },
+    {
+      "key": "csp_zxzj",
+      "name": "📗在线┃直连",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.zxzj.org",
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+    },
+    {
+      "key": "csp_zxzjH3",
+      "name": "📗在线H3┃影视",
+      "type": 3,
+      "api": "csp_ZxzjH3",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.zxzjhd.com",
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+    },
+    {
+      "key": "csp_Lgyy",
+      "name": "🌀蓝光┃直连",
+      "type": 3,
+      "api": "csp_Lgyy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.lgyy.vip",
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+    },
+    {
+      "key": "csp_Smdyy",
+      "name": "🐴神马┃直连",
+      "type": 3,
+      "api": "csp_Smdyy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+    },
+    {
+      "key": "csp_Bd",
+      "name": "💥哔嘀┃直连",
+      "type": 3,
+      "api": "csp_Bdys01",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+    },
+    {
+      "key": "csp_Ysgc",
+      "name": "🏭工厂┃直连",
+      "type": 3,
+      "api": "csp_Ysgc",
+      "m3u8ads": "hd.youyhn.com",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.ysgc.vip",
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+    },
+    {
+      "key": "csp_panghu",
+      "name": "🐯胖虎┃直连",
+      "type": 3,
+      "api": "csp_Panghu",
+      "m3u8ads": "hd.youyhn.com",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+    },
+    {
+      "key": "csp_555",
+      "name": "5⃣555┃直连",
+      "type": 3,
+      "api": "csp_Ys555",
+      "m3u8ads": "hd.youyhn.com",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.555dyy1.com",
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+    },
+    {
+      "key": "csp_Nkdy",
+      "name": "👓耐看┃直连",
+      "type": 3,
+      "api": "csp_Nkdy",
+      "m3u8ads": "hd.youyhn.com",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+    },
+    {
+      "key": "csp_Hlsp",
+      "name": "💣黑料┃直连",
+      "type": 3,
+      "api": "csp_Hlsp",
+      "m3u8ads": "hd.youyhn.com",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://xn--sss604efuw.ga/x/Hlsp/黑料.json",
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+    },
+    {
+      "key": "csp_SP33",
+      "name": "📺三三┃解析",
+      "type": 3,
+      "api": "csp_SP33",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+    },
+    {
+      "key": "Qtv",
+      "name": "🐧腾腾┃解析",
+      "type": 3,
+      "api": "csp_Qtv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+    },
+    {
+      "key": "Itv",
+      "name": "🥝爱爱┃解析",
+      "type": 3,
+      "api": "csp_Itv",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
+    },
+    {
+      "key": "Mtv",
+      "name": "🍋芒芒┃解析",
+      "type": 3,
+      "api": "csp_Mtv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "jar": "img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8"
     },
    
  {
