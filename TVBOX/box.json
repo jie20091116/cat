@@ -1,6 +1,6 @@
 {
 
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/jie20091116/cat/main/TVBOX/jar/0317fty.jar;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9",
+"spider":"img+./jar/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8",
 "wallpaper":"http://壁纸.神器每日推送.tk",
 //"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "warningText": "完全免费，切勿付费购买--杰哥。",
@@ -631,10 +631,10 @@
 {"key": "T4直播转点播","name": "T4直播转点播","type": 4,"api": "http://120.53.102.254/live?url=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA==","searchable": 1,"quickSearch": 1,"filterable": 1 },
 {"key": "MV大全","name": "MV大全","type": 4,"api": "http://120.53.102.254/dsp/", "searchable": 1, "quickSearch": 1, "filterable": 1},   
 {"key":"da_ry","name":"🎵音乐┃MV", "type": 4,"api":"http://120.53.102.254/dsp/","searchable": 1,"quickSearch": 1,"filterable":1},
-{"key":"csp_Bili","name":"🅱哔哩合集┃","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXB2/bilibili.json"},
-{"key":"csp_Biliych","name":"🅱看演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXB2/Biliych.json"},
-{"key":"csp_Sp_谁演唱会","name":"🅱️哔哩┃哗哩一集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXB2/演唱会.php"},
-{"key":"csp_Sp_哗哩合集","name":"🅱️哔哩┃哗哩二集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 0,"ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXB2/哔哩合集T2.php"},
+//{"key":"csp_Bili","name":"🅱哔哩合集┃","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXB2/bilibili.json"},
+//{"key":"csp_Biliych","name":"🅱看演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXB2/Biliych.json"},
+//{"key":"csp_Sp_谁演唱会","name":"🅱️哔哩┃哗哩一集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXB2/演唱会.php"},
+//{"key":"csp_Sp_哗哩合集","name":"🅱️哔哩┃哗哩二集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 0,"ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXB2/哔哩合集T2.php"},
 {"key":"csp_XYQBiu_聚合短视频","name":"📽️聚合短视频","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://神器每日推送.tk/XYQxb/分享短视频.json"},
 {"key": "T4直播转点播","name": "📺︎电视点播","type": 4,"api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_biubiu_斗鱼","name": "🦈斗鱼","type": 3,"api": "csp_XBiubiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw.fastgit.org/jie20091116/cat/main/TVBOX/MaooXB2/%E6%96%97%E9%B1%BC.json"},
@@ -654,7 +654,26 @@
 {"key":"小学课堂","name":"📚小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://神器每日推送.tk/json/小学课堂.json"},
 {"key":"初中课堂","name":"📚初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://神器每日推送.tk/json/初中课堂.json"},
 {"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://神器每日推送.tk/json/高中课堂.json"},
-
+    {
+      "key": "csp_Bili",
+      "name": "哔哔┃合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./Bili/bilibili.json"
+    },
+    {
+      "key": "csp_Biliych",
+      "name": "哔哔┃演唱会",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./Bili/biliych.json"
+    },
 
 
 
