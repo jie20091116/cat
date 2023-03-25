@@ -274,16 +274,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_Nmys",
-      "name": "🌾农民┃直连",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./Nmys/nmys.json"
-    },
-    {
       "key": "csp_Ysgc",
       "name": "🏭工厂┃直连",
       "type": 3,
