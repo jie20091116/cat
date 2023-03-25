@@ -1,6 +1,6 @@
 {
 
-"spider":"https://try.gitea.io/jie20091116/test1/raw/branch/main/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8",
+"spider":"img+https://try.gitea.io/jie20091116/test1/raw/branch/main/fty0321.bmp;md5;039d8000fee8db914255316679fd99a8",
 "wallpaper":"http://壁纸.神器每日推送.tk",
 //"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "warningText": "完全免费，切勿付费购买--杰哥。",
