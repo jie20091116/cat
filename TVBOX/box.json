@@ -22,8 +22,8 @@
  
 "sites":[
 {"key":"js豆瓣","name":"🅱豆瓣┃杰哥！","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},
-{      "key": "js豆瓣",      "name": "豆豆┃推荐",      "type": 3,      "api": "./js/drpy.min.js",      "ext": "./js/js_drpy.js",      "searchable": 0,      "quickSearch": 0,      "filterable": 0    },
- {"key":"douban2","name":"🅱豆瓣荐片┃推荐首页","type":4,"api":"http://t4.饭太硬.ml/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
+
+{"key":"douban2","name":"🅱豆瓣荐片┃推荐首页","type":4,"api":"http://t4.饭太硬.ml/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
 { "key": "csp_Nmys","name": "🌾农民┃直连","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.fastgit.org/jie20091116/cat/main/TVBOX/SP/nmys.json"},
 //{"key":"csp_GitCafe","name":"📜纸条┃云盘","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
 //{"key":"csp_KanSJ","name":"🗽看视界┃杰哥推荐","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
