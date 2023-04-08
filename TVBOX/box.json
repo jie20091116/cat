@@ -1,6 +1,6 @@
 {
 
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/jie20091116/cat/main/TVBOX/jar/0329fty.jar;md5;2427acdd749c3d413e3c9d16d4bebce3",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/jie20091116/cat/main/TVBOX/jar/0407fty.jar;md5;4e76031a18cb23b27867a2c0829492b7",
 //"spider":"https://ghproxy.com/https://raw.githubusercontent.com/jie20091116/cat/main/TVBOX/jar/0317fty.jar;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9",
 "wallpaper":"http://壁纸.神器每日推送.tk",
 //"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
@@ -73,27 +73,7 @@
       "filterable": 1,
       "ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
     },
-    {
-      "key": "csp_FanYY",
-      "name": "💦剥饭┃4K",
-      "type": 3,
-      "api": "csp_FanYY",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ali.饭太硬.ml/alitoken"
-    },
-    {
-      "key": "csp_MeiJu69",
-      "name": "🗽69美剧┃直连",
-      "type": 3,
-      "api": "csp_MeiJu69",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.69mj.com/"
-    },
-    {
+   {
       "key": "csp_BuLei",
       "name": "💢布雷┃直连",
       "type": 3,
@@ -101,8 +81,7 @@
       "m3u8ads": "hd.youyhn.com",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://v.bulei.cc/"
+      "filterable": 1
     },
     {
       "key": "csp_apple",
@@ -114,7 +93,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
+     {
       "key": "csp_Lib",
       "name": "🌟利奥┃直连",
       "type": 3,
@@ -154,6 +133,15 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.6080dy3.com"
+    },
+     {
+      "key": "csp_Dy1010",
+      "name": "❤双十┃直连",
+      "type": 3,
+      "api": "csp_Dy1010",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "csp_77",
@@ -262,16 +250,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_Bd",
-      "name": "💥哔嘀┃直连",
-      "type": 3,
-      "api": "csp_Bdys01",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_Ysgc",
       "name": "🏭工厂┃直连",
       "type": 3,
@@ -304,14 +282,25 @@
       "ext": "https://www.555dyy1.com"
     },
     {
-      "key": "csp_Nkdy",
-      "name": "👓耐看┃直连",
+      "key": "csp_Bd",
+      "name": "💥哔嘀┃直连",
       "type": 3,
-      "api": "csp_Nkdy",
-      "m3u8ads": "hd.youyhn.com",
+      "api": "csp_Bdys01",
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "csp_MeiJu69",
+      "name": "🗽69美剧┃直连",
+      "api": "csp_AppYsV2",
+      "type": 3,
+      "m3u8ads": "hd.youyhn.com",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "ext": "https://www.69mj.com/xgapp.php/v2/"
     },
     {
       "key": "csp_SP33",
@@ -385,6 +374,26 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "http://ali.饭太硬.ml/alitoken$$$自己去注册$$$qq112233"
+    },
+  {
+      "key": "csp_WoGG",
+      "name": "👽玩偶哥哥┃4K",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://ali.饭太硬.ml/ali/token.txt"
+    },
+    {
+      "key": "csp_FanYY",
+      "name": "💦剥饭┃4K",
+      "type": 3,
+      "api": "csp_FanYY",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://ali.饭太硬.ml/alitoken"
     },
 {"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/jie20091116/cat/main/TVBOX/MaooXB2/alist.json"},
 {"key":"csp_Lezhu","name":"🐷乐猪┃SP","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://try.gitea.io/jie20091116/test1/raw/branch/main/xo1330.txt;md5;4bd2275690262e2b338920201a674539"},
