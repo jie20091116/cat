@@ -352,7 +352,10 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./xBPQ/黑料.json"
-    },  
+    }, 
+ 
+ 
+ {"key":"直播","name":"📡直播","type":3,"playerType":1,"api":"http://52bsj.vip:81/api/v3/file/get/125400/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js?sign=sWDXU5vKnKV95Lbn5WpBGfZyKOvBqS2rFjY32CeQOu0%3D%3A0","ext":"直播$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#月光1$https://agit.ai/jyj/ygbh/raw/branch/master/zB/zB.txt#月光2$https://agit.ai/jyj/ygbh/raw/branch/master/zB/tvlive.txt#蓝雨$http://52bsj.vip:81/api/v3/file/get/125403/bluerain.txt?sign=Ia8aEBCNHxSHCBWe5SUbrHa8ftnh5sqL83xbURwwgX4%3D%3A0#野火$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u#lemon$http://52bsj.vip:81/api/v3/file/get/125399/lemon.txt?sign=xGa0TPV76eykMd7sJz_tOMFXKc2cF4V9-yuJO7wF2M4%3D%3A0&&&https://api.caonm.net/api/mc/"},
  {
       "key": "csp_Paper",
       "name": "📜纸条┃4K",
