@@ -342,17 +342,6 @@
       "filterable": 1,
       "changeable": 0
     },
-    {
-      "key": "csp_Hlsp",
-      "name": "💣黑料┃直连",
-      "type": 3,
-      "api": "csp_Hlsp",
-      "m3u8ads": "hd.youyhn.com",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./xBPQ/黑料.json"
-    }, 
      {
       "key": "csp_XYQHiker_虎牙直播",
       "name": "🐯虎牙┃直播",
