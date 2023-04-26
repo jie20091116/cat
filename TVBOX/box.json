@@ -353,6 +353,27 @@
       "ext": "./XYQH/虎牙直播.json"
     },
      {
+      "key": "csp_XYQBiu_斗鱼",
+      "name": "🐟斗鱼┃直播",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./MaooXYQB/斗鱼直播.json"
+    },
+    {
+      "key": "csp_XBPQ_聚短视频",
+      "name": "📽聚┃短视频",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./MaooXBPQ/短视频.json"
+    },
+ 
+     {
       "key": "csp_XYQHiker_有声小说吧",
       "name": "🎧有声┃小说",
       "type": 3,
