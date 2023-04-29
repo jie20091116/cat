@@ -827,49 +827,6 @@
         "动漫电影"
       ]
     },
-    {
-            "key": "草民",
-            "name": "️🚲草民影院",
-            "type": 1,
-            "api": "https://www.xsgj.net/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "国产剧",
-                "港台剧",
-                "日韩剧",
-                "海外剧",
-                "综艺",
-                "动漫",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "恐怖片",
-                "科幻片",   
-                "剧情片",
-                "战争片"             
-            ]
-        },	
-	{
-			"key": "csp_appysv2_东方视频",
-			"name": "🐲东方视频",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://www.dfspapp.com/api.php/app/"
-		},
- {"key": "csp_appysv2_555电影",
-            "name": "555电影〔APP〕",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.555ys1.com/api.php/app/"
-          },
 {      "key": "csp_WoGG",      "name": "👽玩偶哥哥┃4K",      "type": 3,      "api": "csp_WoGG",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "https://framagit.org/live86/TVRule/-/raw/main/alitoken.txt"    }, 
 {
       "key": "七夜",
