@@ -802,7 +802,7 @@
             "name": "",
             "type": 1,
             "api": "https://api.ykapi.net/api.php/provide/vod/",
-            "playUrl": "",
+            "playUrl": "https://lziplayer.com/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -814,9 +814,6 @@
                 
             ]
         },       
-{"key":"*KK写真资源","name":"","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0},       
-{"key":"*影库资源","name":"","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*奶茶资源","name":"*","type":1,"api":"https://caiji.naichaapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {      "key": "csp_WoGG",      "name": "👽玩偶哥哥┃4K",      "type": 3,      "api": "csp_WoGG",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "./ali/token.txt"    }, 
 {
       "key": "七夜",
