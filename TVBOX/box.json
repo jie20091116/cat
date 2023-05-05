@@ -1682,11 +1682,11 @@
 //-------------------------------------------------------------XB----------------------------------------------
 {"key":"csp_XB233动漫","name": "🏖️┃233┃动漫","type": 3,"api": "csp_XBPQ","ext":{"分类":"国产动漫$23","分类url":"https://www.233dm.cc/show/{cateId}--{by}-{class}-----{catePg}---.html"}},
      
-{"key":"csp_QXBiubiu_悠久影院","name":"悠久影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XB/悠久影院.json"},
-{"key":"csp_QXBiubiu_影视工厂","name":"影视工厂(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XB/影视工厂.json"},
-{"key":"csp_QXBiubiu_剧白白","name":"剧白白(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XB/剧白白.json"},
-{"key":"csp_QXBiubiu_600影视","name":"600影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XB/600影视.json"},
-{"key":"csp_QXBiubiu_小强迷","name":"小强迷(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XB/小强迷.json"},
+{"key":"csp_QXBiubiu_悠久影院","name":"悠久影院(XB)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XB/悠久影院.json"},
+{"key":"csp_QXBiubiu_影视工厂","name":"影视工厂(XB)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XB/影视工厂.json"},
+{"key":"csp_QXBiubiu_剧白白","name":"剧白白(XB)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XB/剧白白.json"},
+{"key":"csp_QXBiubiu_600影视","name":"600影视(XB)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XB/600影视.json"},
+{"key":"csp_QXBiubiu_小强迷","name":"小强迷(XB)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XB/小强迷.json"},
 {"key":"csp_biubiu_真不卡影院","name":"真不卡影院(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XB/真不卡影院.json"},
 {"key":"csp_biubiu_八戒影视","name":"八戒影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XB/八戒影视.json"},
 {"key":"csp_biubiu_极品影视","name":"极品影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XB/极品影视.json"},
