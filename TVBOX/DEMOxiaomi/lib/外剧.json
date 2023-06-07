@@ -1,0 +1,12 @@
+{
+	"分类url": "https://www.waijumi.com/show/{cateId}---{class}-{lang}----{catePg}---{year}.html;;u0",
+	"分类": "欧剧$Europetv#韩剧$Koreatv#日剧$Japantv#泰剧$Thailandtv",
+	"请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://www.waijumi.com/",
+	"数组": " <div class=\"public-list-div public-list-bj&&</a",
+	"线路数组": " <a class=\"swiper-slide&&</div",
+	"线路标题": "就一条线",
+	"播放数组": " <ul class=\"anthology-list-play size&&</ul",
+	"跳转播放链接": "https://www.waijumi.com/vip/?url=+vod_class*url\":\"&&\"",
+	"二次跳转播放链接": "https://www.waijumi.com/vip/api.php;post;url=+\"url\"*\"&&\"+&ac=jx",
+	"三次跳转播放链接": "\"url\"*\"&&\""
+}

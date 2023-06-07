@@ -1,0 +1,18 @@
+{
+    "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;al", 
+    "分类": "电影&剧集&动漫&综艺", 
+    "分类值": "1&2&3&4", 
+    "搜索模式": "1", 
+    "搜索url": "/vodsearch/-------------.html?wd={wd}", 
+    "搜索数组": "module-item\">&&</a>", 
+    "搜索图片": "data-original=\"&&\"", 
+    "搜索标题": "alt=\"&&\"", 
+    "搜索链接": "href=\"&&\"", 
+    "搜索副标题": "module-item-note\">&&</div>", 
+    "导演": "导演：&&</div>", 
+    "主演": "主演：&&</div>", 
+    "简介": "<p>&&</p>", 
+    "跳转播放链接": "https://www.freeok.vip/m3u8/?url=+Base64(vod_class*url\":\"&&\")", 
+    "二次跳转播放链接": "https://www.freeok.vip/m3u8/API.php;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"", 
+    "三次跳转播放链接": "\"url\"*\"&&\""
+}

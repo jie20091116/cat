@@ -1,0 +1,8 @@
+{
+    "主页url": "https://cddys.vip/", 
+    "分类": "电影$1#电视剧$2#综艺$3#动漫$4", 
+    "分类url": "https://cddys.vip//vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;val", 
+    "跳转播放链接": "https://bfq.cddys.vip/bfq/?url=+vod_class*url\":\"&&\"", 
+    "二次跳转播放链接": "https://bfq.cddys.vip/bfq/API.php;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"", 
+    "三次跳转播放链接": "\"url\"*\"&&\""
+}
