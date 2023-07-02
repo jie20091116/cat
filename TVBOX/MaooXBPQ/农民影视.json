@@ -4,7 +4,7 @@
     
     "站名":"农民影视",
     
-    "主页url":"https://www.nmddd.com/",
+    "主页url":"https://v.cnmcom.com/",
     
     "简介":"荷城茶秀提醒您请勿相信影片中的广告，以免上当受骗。+简&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;介：&&</p>",
     
@@ -46,7 +46,7 @@
     
     "播放列表":"<a&&/a>",
     
-    "分类url":"https://www.nmddd.com/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-0-year-{year}-letter--area-{area}-lang-.html;;akv",
+    "分类url":"https://v.cnmcom.com/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-0-year-{year}-letter--area-{area}-lang-.html;;akv",
     
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
     
