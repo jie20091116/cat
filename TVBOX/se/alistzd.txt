@@ -1,0 +1,4 @@
+{
+    "小雅":"http://alist.xiaoya.pro",
+"灭火器": "https://lala-ofbip.run.goorm.site/",
+"木偶":"https://www.kugutsu.ml"}
