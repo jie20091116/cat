@@ -66,11 +66,11 @@
     
     "分类url":"https://zuidazy.co/index.php/ajax/data?mid=1&tid={cateId}&page={catePg}&limit=20",
     
-    "分类":"电影$1#港剧$2#美剧$3#国产剧$4#影视解说$23",
+    "分类":"首页$5#电影$1#港剧$2#美剧$3#国产剧$4#影视解说$23",
     
     "筛选":{
     
-    "34":[{"key":"cateId","name":"类型","value":[
+    "5":[{"key":"cateId","name":"类型","value":[
     {"n":"电影","v":"1"},
     {"n":"动作片","v":"6"},
     {"n":"喜剧片","v":"7"},
