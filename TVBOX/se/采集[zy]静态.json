@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "name": "华为吧",
     "url": "https://huawei8.live",
@@ -1315,22 +1315,7 @@
     "class_name": "H4sIAGxXhmYC/wEwAM//5Ymn6ZuGJueUteW9sSbnu7zoibom5Yqo5ryrJuebtOaSrSblsJHlhL8m55+t5YmnqYqVijAAAAA=",
     "class_url": "1&2&3&4&20&21&22"
   },
-  {
-    "name": "🈵成人影视1",
-    "url": "https://www.partnersky-horoskop.com",
-    "parse_url": "",
-    "cate_exclude": "",
-    "class_name": "H4sIAGxXhmYC/0WQzU7CUBCFX8XVvIBPQDRxRUJCjGsXLkgUTHTjTpQ/KxSKtkBEW1ugCDYWiwm0pU9zZ277FhZa4+6eOydnvjP8O8CnMr5smGsC3wnmazjrAt9IvFGLPImUASQGtl4wfwL5XAarHn9WAds2rYP8SeYIqC9SX6WWHlZWwLVlaBpJHFBP41o5FWxlkVJHq4drGWj48D+hT5MHYiqw02Sui8KU/DnwpojjelRvYdtAyYF8NrTvSR7Ace7PnuCtPOpaQKIeCgvueNjoAdlLehvSMoBt3kQBtCUcOzEgjiq7jq6efO0M1Q293jF3lHJGqoOGDZH6sd3gT3inBnRrcnUcfsUvQYkNXLVCsxbpUnqCOIr5/bROjI/TMoRGm8uztA4575H7E2vIlq4LpeJepli4OIP9Q3yUuTyHg9LV5fnpzS/WgFXlmgEAAA==",
-    "class_url": "1&2&3&4&5&20&21&22&23&24&25&26&27&28&29&30&31&32&33&34&35&36&37&38&39&40&41&42&43&44&45&46&47&48",
-    "cate_excludes": [
-      "性知识",
-      "泡麵番",
-      "Motion Anime",
-      "3D動畫",
-      "Cosplay"
-    ]
-  },
-{
+ {
     "name": "jk",
     "url": "https://jkunzy.com",
     "parse_url": "",
@@ -1471,6 +1456,21 @@
       "角色扮演",
       "福利姬",
       "漫画连载"
+    ]
+  },
+  {
+    "name": "🈵成人影视1",
+    "url": "https://www.partnersky-horoskop.com",
+    "parse_url": "",
+    "cate_exclude": "",
+    "class_name": "H4sIAGxXhmYC/0WQzU7CUBCFX8XVvIBPQDRxRUJCjGsXLkgUTHTjTpQ/KxSKtkBEW1ugCDYWiwm0pU9zZ277FhZa4+6eOydnvjP8O8CnMr5smGsC3wnmazjrAt9IvFGLPImUASQGtl4wfwL5XAarHn9WAds2rYP8SeYIqC9SX6WWHlZWwLVlaBpJHFBP41o5FWxlkVJHq4drGWj48D+hT5MHYiqw02Sui8KU/DnwpojjelRvYdtAyYF8NrTvSR7Ace7PnuCtPOpaQKIeCgvueNjoAdlLehvSMoBt3kQBtCUcOzEgjiq7jq6efO0M1Q293jF3lHJGqoOGDZH6sd3gT3inBnRrcnUcfsUvQYkNXLVCsxbpUnqCOIr5/bROjI/TMoRGm8uztA4575H7E2vIlq4LpeJepli4OIP9Q3yUuTyHg9LV5fnpzS/WgFXlmgEAAA==",
+    "class_url": "1&2&3&4&5&20&21&22&23&24&25&26&27&28&29&30&31&32&33&34&35&36&37&38&39&40&41&42&43&44&45&46&47&48",
+    "cate_excludes": [
+      "性知识",
+      "泡麵番",
+      "Motion Anime",
+      "3D動畫",
+      "Cosplay"
     ]
   }
 ]
