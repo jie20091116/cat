@@ -1,0 +1,275 @@
+﻿#EXTM3U x-tvg-url=
+#EXTINF:-1 tvg-id="松视1" tvg-name="松视1" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/1.png" group-title="CR",松视1
+p3p://108.181.20.159:62342/5fe445280008a40682a0367c343436bb
+#EXTINF:-1 tvg-id="松视2" tvg-name="松视2" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/2.png" group-title="CR",松视2
+p3p://108.181.20.159:62342/60232b5f00007bc37850649979e379df
+#EXTINF:-1 tvg-id="松视3" tvg-name="松视3" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/3.png" group-title="CR",松视3
+p3p://108.181.20.159:62342/6109e9590001f40bfd9b661109395f3b
+#EXTINF:-1 tvg-id="松视4" tvg-name="松视4" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/4.png" group-title="CR",松视4
+https://2.ddyunbo.com/20190908/nvueB1Az/index.m3u8
+#EXTINF:-1 tvg-id="潘多拉高畵樂玩台" tvg-name="潘多拉高畵樂玩台" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/5.png" group-title="CR",潘多拉高畵樂玩台
+https://cntv.lat/tv/zb.php?auth=231122&id=cctv1
+#EXTINF:-1 tvg-id="潘多拉高畵粉红台" tvg-name="潘多拉高畵粉红台" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/6.png" group-title="CR",潘多拉高畵粉红台
+https://2.ddyunbo.com/20190908/qvYslaAx/index.m3u8
+#EXTINF:-1 tvg-id="HiPIAY玩家频道" tvg-name="HiPIAY頻道" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/7.png" group-title="CR",HiPIAY玩家频道
+https://cntv.lat/tv/zb.php?auth=231122&id=cctv1
+#EXTINF:-1 tvg-id="HOT頻道" tvg-name="HOT頻道" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/8.png" group-title="CR",HOT頻道
+https://2.ddyunbo.com/20190914/dSIYelxz/index.m3u8
+#EXTINF:-1 tvg-id="HAPPY頻道" tvg-name="HAPPY頻道" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/9.png" group-title="CR",HAPPY頻道
+https://2.ddyunbo.com/20190914/TFWmOomT/index.m3u8
+#EXTINF:-1 tvg-id="SSIS-924" tvg-name="SSIS-924" tvg-logo="https://666548.xyz/images/2023/11/25/fd1699bd084e2948b991b8a87decc72a.jpg" group-title="无码中文",SSIS-924
+https://t23a.cdn2020.com/video/m3u8/2023/11/25/759893a5/index.m3u8
+#EXTINF:-1 tvg-id="MIDE-296" tvg-name="MIDE-296" tvg-logo="https://666548.xyz/images/2023/11/25/e30f91d017c50f11ea88f02cdd34cf71.jpg" group-title="无码中文",MIDE-296 
+https://t23a.cdn2020.com/video/m3u8/2023/11/25/8f7ecd1c/index.m3u8
+#EXTINF:-1 tvg-id="HND-765 " tvg-name="HND-765 " tvg-logo="https://666548.xyz/images/2023/11/25/c6fbdccad40615c8f753b443f8f808ae.jpg" group-title="无码中文",HND-765 
+https://t23a.cdn2020.com/video/m3u8/2023/11/25/f4a9af99/index.m3u8
+#EXTINF:-1 tvg-id="MIGD-487 " tvg-name="MIGD-487 " tvg-logo="https://666548.xyz/images/2023/11/25/fe439221744f5972763f9052a6c23a25.jpg" group-title="无码中文",MIGD-487 
+https://t23a.cdn2020.com/video/m3u8/2023/11/25/a5bfbda2/index.m3u8
+#EXTINF:-1 tvg-id="SNIS-598 " tvg-name="SNIS-598 " tvg-logo="https://666548.xyz/images/2023/11/25/ed96082319f7f29f6c7043210c854ef9.jpg" group-title="无码中文",SNIS-598 
+https://t23a.cdn2020.com/video/m3u8/2023/11/25/75588905/index.m3u8
+#EXTINF:-1 tvg-id="STARS-913" tvg-name="STARS-913" tvg-logo="https://666548.xyz/images/2023/11/25/1a12fa2402d423df5e3b6ced8c527826.jpg" group-title="无码中文",STARS-913
+https://t23a.cdn2020.com/video/m3u8/2023/11/25/07855d2c/index.m3u8
+#EXTINF:-1 tvg-id="SSIS-825" tvg-name="SSIS-825" tvg-logo="https://666548.xyz/images/2023/11/25/d18b68212d07e30405715e568d611731.jpg" group-title="无码中文",SSIS-825 
+https://t23a.cdn2020.com/video/m3u8/2023/11/25/f655c67d/index.m3u8
+#EXTINF:-1 tvg-id="SSIS-522 " tvg-name="SSIS-522 " tvg-logo="https://666548.xyz/images/2023/11/25/4415856c61c45ca3eb5650e7145cf261.jpg" group-title="无码中文",SSIS-522 
+https://t23a.cdn2020.com/video/m3u8/2023/11/25/314ec906/index.m3u8
+#EXTINF:-1 tvg-id="SSIS-377" tvg-name="SSIS-377" tvg-logo="https://666548.xyz/images/2023/11/25/20bac4ddeaf9fab77714bec6281a9988.jpg" group-title="无码中文",SSIS-377
+https://t23a.cdn2020.com/video/m3u8/2023/11/25/7014aec9/index.m3u8
+#EXTINF:-1 tvg-id="ABP-279 " tvg-name="ABP-279 " tvg-logo="https://666548.xyz/images/2023/11/25/1c49cf15b17e50280d98add8e19b75a8.jpg" group-title="无码中文",ABP-279 
+https://t23a.cdn2020.com/video/m3u8/2023/11/25/f53daef6/index.m3u8
+#EXTINF:-1 tvg-id="CAWD-578" tvg-name="CAWD-578" tvg-logo="https://666548.xyz/images/2023/11/23/a4b4bb217dcd802b8d794b6e02183e2f.jpg" group-title="无码中文",CAWD-578
+https://t23a.cdn2020.com/video/m3u8/2023/11/23/3a41a781/index.m3u8
+#EXTINF:-1 tvg-id="IPZ-545" tvg-name="IPZ-545" tvg-logo="https://666548.xyz/images/2023/11/23/355b887e046f09d0ee51cf228062408b.jpg" group-title="无码中文",IPZ-545
+https://t23a.cdn2020.com/video/m3u8/2023/11/23/8e8e9fb7/index.m3u8
+#EXTINF:-1 tvg-id="STAR-535" tvg-name="STAR-535" tvg-logo="https://666548.xyz/images/2023/11/23/8d39c76149d6dcb2960ef8d805e45e05.jpg" group-title="无码中文",STAR-535
+https://t23a.cdn2020.com/video/m3u8/2023/11/23/df91ec16/index.m3u8
+#EXTINF:-1 tvg-id="KAWD-723" tvg-name="KAWD-723" tvg-logo="https://666548.xyz/images/2023/11/23/17731d93e626033529767e1b8c5878db.jpg" group-title="无码中文",KAWD-723 
+https://t23a.cdn2020.com/video/m3u8/2023/11/23/95ea6b9e/index.m3u8
+#EXTINF:-1 tvg-id="MIDV-516" tvg-name="MIDV-516" tvg-logo="https://666548.xyz/images/2023/11/23/4f7630e806f6c643d761c85c6fb7027f.jpg" group-title="无码中文",MIDV-516 
+https://t23a.cdn2020.com/video/m3u8/2023/11/23/29983135/index.m3u8
+#EXTINF:-1 tvg-id=" SSIS-254" tvg-name=" SSIS-254" tvg-logo="https://666548.xyz/images/2023/11/23/b766dcaabd0248639a456defa45880f2.jpg" group-title="无码中文",SSIS-254
+https://t23a.cdn2020.com/video/m3u8/2023/11/23/fc46a033/index.m3u8
+#EXTINF:-1 tvg-id="MIDV-522" tvg-name="MIDV-522" tvg-logo="https://666548.xyz/images/2023/11/23/b4fb01a0c1ed92cbe140fc27f87ba8a4.jpg" group-title="无码中文",MIDV-522 
+https://t23a.cdn2020.com/video/m3u8/2023/11/23/b4a37015/index.m3u8
+#EXTINF:-1 tvg-id="ADN-507" tvg-name="ADN-507" tvg-logo="https://666548.xyz/images/2023/11/23/02be9630a9c0d524059b106d064d3b74.jpg" group-title="无码中文",ADN-507
+https://t23a.cdn2020.com/video/m3u8/2023/11/23/4c588e46/index.m3u8
+#EXTINF:-1 tvg-id="SSIS-224" tvg-name="SSIS-224" tvg-logo="https://666548.xyz/images/2023/11/23/fc25ef001efe474f190ac5ee5d8a6cd4.jpg" group-title="无码中文",SSIS-224
+https://t23a.cdn2020.com/video/m3u8/2023/11/23/ae18b503/index.m3u8
+#EXTINF:-1 tvg-id="RBD-667" tvg-name="RBD-667" tvg-logo="https://666548.xyz/images/2023/11/21/4f6843987c40c7f60471d712f5eb2d90.jpg" group-title="无码中文",RBD-667 
+https://t23a.cdn2020.com/video/m3u8/2023/11/21/ae5fe6ef/index.m3u8
+#EXTINF:-1 tvg-id="DV-1396" tvg-name="DV-1396" tvg-logo="https://666548.xyz/images/2023/11/21/7175a38baf4c0191e97abccdbd33982d.jpg" group-title="无码中文",DV-1396
+https://t23a.cdn2020.com/video/m3u8/2023/11/21/5dbcc51e/index.m3u8
+#EXTINF:-1 tvg-id="SSIS-296" tvg-name="SSIS-296" tvg-logo="https://666548.xyz/images/2023/11/21/2e0d3948622cd9384801c905c5ac68d4.jpg" group-title="无码中文",SSIS-296
+https://t23a.cdn2020.com/video/m3u8/2023/11/21/31f0c2bd/index.m3u8
+#EXTINF:-1 tvg-id="ABF-034" tvg-name="ABF-034" tvg-logo="https://666548.xyz/images/2023/11/21/ce069276796b916817b794b1ff2f53f0.jpg" group-title="无码中文",ABF-034
+https://t23a.cdn2020.com/video/m3u8/2023/11/21/f26130be/index.m3u8
+#EXTINF:-1 tvg-id="SSIS-321" tvg-name="SSIS-321" tvg-logo="https://666548.xyz/images/2023/11/21/66efbcffee09b06961a6f6d2133d46f8.jpg" group-title="无码中文",SSIS-321 
+https://t23a.cdn2020.com/video/m3u8/2023/11/21/a61eed3b/index.m3u8
+#EXTINF:-1 tvg-id="MXGS-794" tvg-name="MXGS-794" tvg-logo="https://666548.xyz/images/2023/11/21/7b9442eb01f2b09e3ae0d58cfea646ae.jpg" group-title="无码中文",MXGS-794
+https://t23a.cdn2020.com/video/m3u8/2023/11/21/74cab90b/index.m3u8
+#EXTINF:-1 tvg-id="SSIS-913" tvg-name="SSIS-913" tvg-logo="https://666548.xyz/images/2023/11/19/062df8df35b8993579a10f54d69f8267.jpg" group-title="无码中文",SSIS-913
+https://t23a.cdn2020.com/video/m3u8/2023/11/19/974ce08b/index.m3u8
+#EXTINF:-1 tvg-id="STAR-513" tvg-name="STAR-513" tvg-logo="https://666548.xyz/images/2023/11/19/2eb9af7d4aa192c2e18a0944c7156a54.jpg" group-title="无码中文",STAR-513 
+https://t23a.cdn2020.com/video/m3u8/2023/11/19/2656e7db/index.m3u8
+#EXTINF:-1 tvg-id="FSDSS-660" tvg-name="FSDSS-660" tvg-logo="https://666548.xyz/images/2023/11/19/9ebeb5432f75e7f8bec3847101bce139.jpg" group-title="无码中文",FSDSS-660 
+https://t23a.cdn2020.com/video/m3u8/2023/11/19/057d875c/index.m3u8
+#EXTINF:-1 tvg-id="MIDE-031" tvg-name="MIDE-031" tvg-logo="https://666548.xyz/images/2023/11/19/5a9d17a3cbf90fdcc2fc6ccbf9b06877.jpg" group-title="无码中文",MIDE-031
+https://t23a.cdn2020.com/video/m3u8/2023/11/19/05ab1ff2/index.m3u8
+#EXTINF:-1 tvg-id="SSIS-673" tvg-name="SSIS-673" tvg-logo="https://666548.xyz/images/2023/11/19/f503431ead10fbd90b593966264001d3.jpg" group-title="无码中文",SSIS-673
+https://t23a.cdn2020.com/video/m3u8/2023/11/19/9411cc54/index.m3u8
+#EXTINF:-1 tvg-id="IPZ-443" tvg-name="IPZ-443" tvg-logo="https://666548.xyz/images/2023/11/19/cab01191a8c3e32402b64ecbbf6d0c6e.jpg" group-title="无码中文",IPZ-443 
+https://t23a.cdn2020.com/video/m3u8/2023/11/19/9bd223c3/index.m3u8
+#EXTINF:-1 tvg-id="STAR-605" tvg-name="STAR-605" tvg-logo="https://666548.xyz/images/2023/11/18/dcd44e382f6d5155c71c417f85335d46.jpg" group-title="无码中文",STAR-605
+https://t23a.cdn2020.com/video/m3u8/2023/11/18/cf16be81/index.m3u8
+#EXTINF:-1 tvg-id="SSIS-647" tvg-name="SSIS-647" tvg-logo="https://666548.xyz/images/2023/11/18/a06e1c0e881339709d8d046de1214dd2.jpg" group-title="无码中文",SSIS-647
+https://t23a.cdn2020.com/video/m3u8/2023/11/18/7b1aca3e/index.m3u8
+#EXTINF:-1 tvg-id="DV-1649" tvg-name="DV-1649" tvg-logo="https://666548.xyz/images/2023/11/18/a866392a0a19cef9586d2aeca5b98718.jpg" group-title="无码中文",DV-1649
+https://t23a.cdn2020.com/video/m3u8/2023/11/18/a2dd70c7/index.m3u8
+#EXTINF:-1 tvg-id="SSIS-491 " tvg-name="SSIS-491 " tvg-logo="https://666548.xyz/images/2023/11/18/1f5fbcfc666154b49f16e92182c23f13.jpg" group-title="无码中文",SSIS-491 
+https://t23a.cdn2020.com/video/m3u8/2023/11/18/a2ac6719/index.m3u8
+#EXTINF:-1 tvg-id="STAR-684" tvg-name="STAR-684" tvg-logo="https://666548.xyz/images/2023/11/18/b675cc3e16e371e1b77c8d190ef67c03.jpg" group-title="无码中文",STAR-684
+https://t23a.cdn2020.com/video/m3u8/2023/11/18/6f7feb04/index.m3u8
+#EXTINF:-1 tvg-id="IPZ-735 " tvg-name="IPZ-735 " tvg-logo="https://666548.xyz/images/2023/11/15/e46a6fc9756fe321cc4a3cd751d1b67a.jpg" group-title="无码中文",IPZ-735 
+https://t23a.cdn2020.com/video/m3u8/2023/11/15/1b90dda5/index.m3u8
+#EXTINF:-1 tvg-id="ABP-197 " tvg-name="ABP-197 " tvg-logo="https://666548.xyz/images/2023/11/15/746c7e6d02aafd5eb4906248eeffd8ce.jpg" group-title="无码中文",ABP-197 
+https://t23a.cdn2020.com/video/m3u8/2023/11/15/f459e600/index.m3u8
+#EXTINF:-1 tvg-id="SSIS-578" tvg-name="SSIS-578" tvg-logo="https://666548.xyz/images/2023/11/15/67b327aee07350e75139b5bf47750252.jpg" group-title="无码中文",SSIS-578
+https://t23a.cdn2020.com/video/m3u8/2023/11/15/63a3a3ec/index.m3u8
+#EXTINF:-1 tvg-id="ABP-186 " tvg-name="ABP-186 " tvg-logo="https://666548.xyz/images/2023/11/15/e130d722d8b33354c32ec9ba3b6b2bfe.jpg" group-title="无码中文",ABP-186 
+https://t23a.cdn2020.com/video/m3u8/2023/11/15/062794e5/index.m3u8
+#EXTINF:-1 tvg-id="MXGS-783" tvg-name="MXGS-783" tvg-logo="https://666548.xyz/images/2020/10/03/f034d09b3c5b513add13693f841d93d4.jpg" group-title="日本无码",MXGS-783
+https://t4sa.cdn2020.com/video/m3u8/2020/10/02/75c70df5/index.m3u8
+#EXTINF:-1 tvg-id="MXGS-812" tvg-name="MXGS-812" tvg-logo="https://666548.xyz/images/2020/09/30/d8f19725b8abf1158b72a22759936a2f.jpg" group-title="日本无码",MXGS-812
+https://t4sa.cdn2020.com/video/m3u8/2020/09/30/a6184b61/index.m3u8
+#EXTINF:-1 tvg-id="heyzo_2323" tvg-name="heyzo_2323" tvg-logo="https://666548.xyz/images/2020/08/16/88aae497a1e1502b828ea8483c9fd7a7.jpg" group-title="日本无码",heyzo_2323
+https://t4sa.cdn2020.com/video/m3u8/2020/08/16/01dfe005/index.m3u8
+#EXTINF:-1 tvg-id="heyzo_2322" tvg-name="heyzo_2322" tvg-logo="https://666548.xyz/images/2020/08/16/01acd85f37b53e7f5e67cdf0b015db99.jpg" group-title="日本无码",heyzo_2322
+https://t4sa.cdn2020.com/video/m3u8/2020/08/16/77601fc8/index.m3u8
+#EXTINF:-1 tvg-id="heyzo_2299" tvg-name="heyzo_2299" tvg-logo="https://666548.xyz/images/2020/08/16/bfb4ed34ecf7241085af76c0f9199332.jpg" group-title="日本无码",heyzo_2299 
+https://t4sa.cdn2020.com/video/m3u8/2020/08/16/efa79a2c/index.m3u8
+#EXTINF:-1 tvg-id="heyzo_2298" tvg-name="heyzo_2298" tvg-logo="https://666548.xyz/images/2020/08/16/55b61e4ad4230ef424acd47df24df854.jpg" group-title="日本无码",heyzo_2298
+https://t4sa.cdn2020.com/video/m3u8/2020/08/16/118cbfc6/index.m3u8
+#EXTINF:-1 tvg-id="080920-001" tvg-name="080920-001" tvg-logo="https://666548.xyz/images/2020/08/16/a3b213310a57c2de2382405b32bfbd6e.jpg" group-title="日本无码",080920-001
+https://t4sa.cdn2020.com/video/m3u8/2020/08/16/c48d12e0/index.m3u8
+#EXTINF:-1 tvg-id="080920_340" tvg-name="080920_340" tvg-logo="https://666548.xyz/images/2020/08/16/8f4355d7e3053c9d5aedc743484616c9.jpg" group-title="日本无码",080920_340
+https://t4sa.cdn2020.com/video/m3u8/2020/08/16/f5b50194/index.m3u8
+#EXTINF:-1 tvg-id="080920_001" tvg-name="080920_001" tvg-logo="https://666548.xyz/images/2020/08/16/af5f965aff4abd7f0bc828691e18a9a0.jpg" group-title="日本无码",080920_001
+https://t4sa.cdn2020.com/video/m3u8/2020/08/16/262f3875/index.m3u8
+#EXTINF:-1 tvg-id="080820-001" tvg-name="080820-001" tvg-logo="https://666548.xyz/images/2020/08/16/5ee4e3af76089a6b4f4a0b721fb8e362.jpg" group-title="日本无码",080820-001
+https://t4sa.cdn2020.com/video/m3u8/2020/08/16/21258f7a/index.m3u8
+#EXTINF:-1 tvg-id="080820_339" tvg-name="080820_339" tvg-logo="https://666548.xyz/images/2020/08/16/f399aa5012f84a6d0935987911c99f41.jpg" group-title="日本无码",080820_339
+https://t4sa.cdn2020.com/video/m3u8/2020/08/16/170a79ed/index.m3u8
+#EXTINF:-1 tvg-id="080820_01 " tvg-name="080820_01 " tvg-logo="https://666548.xyz/images/2020/08/16/c7d3bb0cc761cb7544b203c8b5d68d5b.jpg" group-title="日本无码",080820_01 
+https://t4sa.cdn2020.com/video/m3u8/2020/08/16/ea5ec255/index.m3u8
+#EXTINF:-1 tvg-id="080820_001-1" tvg-name="080820_001-1" tvg-logo="https://666548.xyz/images/2020/08/16/7fd70821fcd5492f46ad9e44ca0fd248.jpg" group-title="日本无码",080820_001-1
+https://t4sa.cdn2020.com/video/m3u8/2020/08/16/e44a5558/index.m3u8
+#EXTINF:-1 tvg-id="063020-001" tvg-name="063020-001" tvg-logo="https://666548.xyz/images/2020/08/16/6c822cd25e730c72377e1577ef54e1e3.jpg" group-title="日本无码",063020-001
+https://t4sa.cdn2020.com/video/m3u8/2020/08/16/b8611b24/index.m3u8
+#EXTINF:-1 tvg-id="063020_001-1pon " tvg-name="063020_001-1pon " tvg-logo="https://666548.xyz/images/2020/08/16/6c1fc87d547409d910cfbe1119547091.jpg" group-title="日本无码",063020_001-1pon 
+https://t4sa.cdn2020.com/video/m3u8/2020/08/16/2cce7794/index.m3u8
+#EXTINF:-1 tvg-id="062720-001-carib " tvg-name="062720-001-carib " tvg-logo="https://666548.xyz/images/2020/08/16/2515e096022f5fe7fda13278b4e35132.jpg" group-title="日本无码",062720-001-carib 
+https://t4sa.cdn2020.com/video/m3u8/2020/08/16/ecf9f025/index.m3u8
+#EXTINF:-1 tvg-id="062620-001-carib " tvg-name="062620-001-carib " tvg-logo="https://666548.xyz/images/2020/08/16/abc06378a4b1cbabcede68fbf49fee56.jpg" group-title="日本无码",062620-001-carib 
+https://t4sa.cdn2020.com/video/m3u8/2020/08/16/4095a046/index.m3u8
+#EXTINF:-1 tvg-id="061920-001-carib" tvg-name="061920-001-carib" tvg-logo="https://666548.xyz/images/2020/08/16/adc9a4021354dbdc95ad3cfcceb70802.jpg" group-title="日本无码",061920-001-carib
+https://t4sa.cdn2020.com/video/m3u8/2020/08/16/b8955620/index.m3u8
+#EXTINF:-1 tvg-id="090719_01-10mu " tvg-name="090719_01-10mu " tvg-logo="https://666548.xyz/images/2019/09/13/QQ20190914075921691a4.jpg" group-title="日本无码",090719_01-10mu 
+https://z100.cdn2020.com/video/m3u8/2019/09/13/33264418/index.m3u8
+#EXTINF:-1 tvg-id="090719_167-paco" tvg-name="090719_167-paco" tvg-logo="https://666548.xyz/images/2019/09/13/QQ20190914075921f2a97.jpg" group-title="日本无码",090719_167-paco 
+https://z100.cdn2020.com/video/m3u8/2019/09/13/11c236e2/index.m3u8
+#EXTINF:-1 tvg-id="090719_896-1pon" tvg-name="090719_896-1pon" tvg-logo="https://666548.xyz/images/2019/09/13/QQ2019091407592167369.jpg" group-title="日本无码",090719_896-1pon
+https://z100.cdn2020.com/video/m3u8/2019/09/13/1b1537ad/index.m3u8
+#EXTINF:-1 tvg-id="090719-001-carib" tvg-name="090719-001-carib" tvg-logo="https://666548.xyz/images/2019/09/13/QQ2019091407592149422.jpg" group-title="日本无码",090719-001-carib
+https://z100.cdn2020.com/video/m3u8/2019/09/13/2b46b64c/index.m3u8
+#EXTINF:-1 tvg-id="091019_01-10mu " tvg-name="091019_01-10mu " tvg-logo="https://666548.xyz/images/2019/09/13/QQ20190914075921063a2.jpg" group-title="日本无码",091019_01-10mu 
+https://z100.cdn2020.com/video/m3u8/2019/09/13/ec613b82/index.m3u8
+#EXTINF:-1 tvg-id="091019_168-paco" tvg-name="091019_168-paco" tvg-logo="https://666548.xyz/images/2019/09/13/QQ20190914075921760e2.jpg" group-title="日本无码",091019_168-paco 
+https://z100.cdn2020.com/video/m3u8/2019/09/13/731c38ac/index.m3u8
+#EXTINF:-1 tvg-id="091019_897-1pon " tvg-name="091019_897-1pon " tvg-logo="https://666548.xyz/images/2019/09/13/QQ20190914075921f8055.jpg" group-title="日本无码",091019_897-1pon 
+https://z100.cdn2020.com/video/m3u8/2019/09/13/e8326bb7/index.m3u8
+#EXTINF:-1 tvg-id="091019-001-carib " tvg-name="091019-001-carib " tvg-logo="https://666548.xyz/images/2019/09/13/QQ201909140759214425b.jpg" group-title="日本无码",091019-001-carib 
+https://z100.cdn2020.com/video/m3u8/2019/09/13/896114b3/index.m3u8
+#EXTINF:-1 tvg-id="091119-001-carib " tvg-name="091119-001-carib " tvg-logo="https://666548.xyz/images/2019/09/13/QQ20190914075921838e0.jpg" group-title="日本无码",091119-001-carib 
+https://z100.cdn2020.com/video/m3u8/2019/09/13/03c3c3ed/index.m3u8
+#EXTINF:-1 tvg-id="091219_01-10mu " tvg-name="091219_01-10mu " tvg-logo="https://666548.xyz/images/2019/09/13/QQ201909140759218e6a3.jpg" group-title="日本无码",091219_01-10mu 
+https://z100.cdn2020.com/video/m3u8/2019/09/13/471522ff/index.m3u8
+#EXTINF:-1 tvg-id="091219_169-paco " tvg-name="091219_169-paco " tvg-logo="https://666548.xyz/images/2019/09/13/QQ20190914075921cb60f.jpg" group-title="日本无码",091219_169-paco 
+https://z100.cdn2020.com/video/m3u8/2019/09/13/c81d21e2/index.m3u8
+#EXTINF:-1 tvg-id="091219_898-1pon " tvg-name="091219_898-1pon " tvg-logo="https://666548.xyz/images/2019/09/13/QQ20190914075921b9772.jpg" group-title="日本无码",091219_898-1pon 
+https://z100.cdn2020.com/video/m3u8/2019/09/13/b840a490/index.m3u8
+#EXTINF:-1 tvg-id="heyzo_2042 " tvg-name="heyzo_2042 " tvg-logo="https://666548.xyz/images/2019/09/13/QQ201909140759218e864.jpg" group-title="日本无码",heyzo_2042 
+https://z100.cdn2020.com/video/m3u8/2019/09/13/717df7e8/index.m3u8
+#EXTINF:-1 tvg-id="heyzo_2074 " tvg-name="heyzo_2074 " tvg-logo="https://666548.xyz/images/2019/09/13/QQ2019091407592196682.jpg" group-title="日本无码",heyzo_2074 
+https://z100.cdn2020.com/video/m3u8/2019/09/13/0ce7100d/index.m3u8
+#EXTINF:-1 tvg-id="heyzo_2075" tvg-name="heyzo_2075" tvg-logo="https://666548.xyz/images/2019/09/13/QQ20190914075921.jpg" group-title="日本无码",heyzo_2075 
+https://z100.cdn2020.com/video/m3u8/2019/09/13/23c08d11/index.m3u8
+#EXTINF:-1 tvg-id="090319_01-10mu " tvg-name="090319_01-10mu " tvg-logo="https://666548.xyz/images/2019/09/08/QQ201909090914312d804.jpg" group-title="日本无码",090319_01-10mu 
+https://z100.cdn2020.com/video/m3u8/2019/09/08/77b81f19/index.m3u8
+#EXTINF:-1 tvg-id="090319_164-paco" tvg-name="090319_164-paco" tvg-logo="https://666548.xyz/images/2019/09/08/QQ20190909091431322d1.jpg" group-title="日本无码",090319_164-paco
+https://z100.cdn2020.com/video/m3u8/2019/09/08/4fdf7314/index.m3u8
+#EXTINF:-1 tvg-id="4k古风次元" tvg-name="4k古风次元" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/4KTU/1.png" group-title="4k古风次元",冯提莫 红尘事
+https://us-xpc11.xpccdn.com/59fbfe8e-c4f3-41c3-9b7a-c6d2eec1fa49.mp4
+#EXTINF:-1 tvg-id="4k古风次元" tvg-name="4k古风次元" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/4KTU/3.png" group-title="4k古风次元",唐诗逸 问灵
+https://us-xpc5.xpccdn.com/7435c8ce-20ef-44c8-9956-16242a48def6/a599cc9b-0ef7-4005-bfdf-7c2c6411293c.mp4
+#EXTINF:-1 tvg-id="4k古风次元" tvg-name="4k古风次元" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/4KTU/4.png" group-title="4k古风次元",和你一起的每一刻都是甜的
+https://us-xpc5.xpccdn.com/71161a1c-4a92-4139-b1ed-f88c60ca1fcb.mp4
+#EXTINF:-1 tvg-id="4k古风次元" tvg-name="4k古风次元" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/4KTU/6.png" group-title="4k古风次元",古风MV花月成双
+https://us-xpc5.xpccdn.com/55247432-578f-48cf-a93e-392699e4699a.mp4
+#EXTINF:-1 tvg-id="4k古风次元" tvg-name="4k古风次元" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/4KTU/8.png" group-title="4k古风次元",心跳光谱
+https://us-xpc5.xpccdn.com/9d1ef1b1-4507-4295-a232-a473ee79f0a2.mp4
+#EXTINF:-1 tvg-id="4k古风次元" tvg-name="4k古风次元" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/4KTU/9.png" group-title="4k古风次元",《大喜》MV
+https://us-xpc5.xpccdn.com/016e632a-fe7a-4d92-bf42-965bc0c4bd0e.mp4
+#EXTINF:-1 tvg-id="连续被上的OL" tvg-name="连续被上的OL" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/MOD-1/1.png" group-title="MSD麻豆原创",连续被上的OL
+https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/da/bj/1c/et/399a1a6f21a74a6b9a391b1903ce2f3c.m3u8
+#EXTM3U x-tvg-url=
+#EXTINF:-1 tvg-id="乱伦迷情药" tvg-name="乱伦迷情药" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/MOD-1/2.png" group-title="MSD麻豆原创",乱伦迷情药
+https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/qi/oi/gz/ux/dbf57474fbed49c9aa3fb97bcd75b891.m3u8
+#EXTM3U x-tvg-url=
+#EXTINF:-1 tvg-id="菜鸟特务" tvg-name="菜鸟特务" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/MOD-1/3.png" group-title="MSD麻豆原创",菜鸟特务
+https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/kn/99/yw/34/c3ac47258c9f4b7399c6a6543b80b8c1.m3u8
+#EXTM3U x-tvg-url=
+#EXTINF:-1 tvg-id="妇女的不论之恋" tvg-name="妇女的不论之恋" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/MOD-1/4.png" group-title="MSD麻豆原创",妇女的不论之恋
+https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/eg/oc/n7/57/fbb21f9d41d54e468b7657d66b6aa6e7.m3u8
+#EXTM3U x-tvg-url=
+#EXTINF:-1 tvg-id="疯狂的女主播" tvg-name="疯狂的女主播" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/MOD-1/5.png" group-title="MSD麻豆原创",疯狂的女主播
+https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/7s/37/y5/7m/714af6843aae4ff79ce7adc7980d0712.m3u8
+#EXTM3U x-tvg-url=
+#EXTINF:-1 tvg-id="松视1" tvg-name="松视1" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/1.png" group-title="CB",松视1
+p3p://135.148.104.228:19806/bae1cb1b23f8447a8fb537b4f8de943b
+#EXTINF:-1 tvg-id="松视2" tvg-name="松视2" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/2.png" group-title="CB",松视2
+p3p://135.148.104.228:19806/35efd6a3da6648279ced42e613b7a538
+#EXTINF:-1 tvg-id="松视3" tvg-name="松视3" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/3.png" group-title="CB",松视3
+p3p://135.148.104.228:19806/35efd6a3da6648279ced42e613b7a538
+#EXTINF:-1 tvg-id="松视4" tvg-name="松视4" tvg-logo="https://gitee.com/weidi149081665/TV/raw/master/4.png" group-title="CB",松视4
+https://2.ddyunbo.com/20190908/nvueB1Az/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
