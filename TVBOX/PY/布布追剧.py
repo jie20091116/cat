@@ -6,7 +6,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 sys.path.append('..')
 
 class Spider(Spider):
-    host, device_id = 'https://bubutv.top/', 'com.sunshine.tv_3qys_B7k7Dt56Rn'
+    host, device_id = 'https://323433ssdfd.top/', 'com.sunshine.tv_3qys_B7k7Dt56Rn'
 
     def homeContent(self, filter):
         if not self.host: return None
