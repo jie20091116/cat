@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<Error>
+	<Code>UnavailableForHighFreq</Code>
+	<Message>Your account has been banned for the reason of high frequency requests, please check your COS service.</Message>
+	<Resource>/</Resource>
+	<RequestId>NmE5ZDAwYTdfOTQ0ZjE0MGJfMTRiX2EzMzQ5YzA=</RequestId>
+	<TraceId>OGVmYzZiMmQzYjA2OWNhODk0NTRkMTBiOWVmMDAxODc1NGE1MWY0MzY2NTg1MzM1OTY3MDliYzY2YTQ0ZThhMGMxYzZjY2M0OGYwMTMyYjE0NmU1MmJkYzEzNmU4ODVj</TraceId>
+</Error>
+
