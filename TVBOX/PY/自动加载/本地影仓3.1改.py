@@ -171,33 +171,6 @@ class Spider(BaseSpider):
         {"path": _detect_child_dir(DETECTED_LOCAL_BASE, "XBPQ"), "type": "XBPQ", "extensions": [".json"]},
         {"path": _detect_child_dir(DETECTED_LOCAL_BASE, "html"), "type": "HTML", "extensions": [".html"]},
     ]
-    # 🔒 锁定在 sites 第 0、1 位的配置，无论扫描结果如何始终存在
-    _LOCKED_SITES = [
-		{
-            "name": "智能加载",
-            "key": "智能加载",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/jie20091116/cat/refs/heads/main/TVBOX/PY/自动加载/本地影仓3.1改.py"
-         },
-		{
-            "name": "弹幕 TG @hshsjk9",
-            "key": "弹幕豆瓣",
-            "type": 3,
-            "api": "csp_SecureDanmu",
-            "searchable": 1,
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/goodcommunication/mydm/main/danmu-spider-native.jar",
-            "ext": {
-            "apiUrls": [
-            "https://danmu.iyo.us.ci/theft-dastardly-prognosis-hula-agenda2-dropkick|公益源",
-            "https://logo.saodu.work:8888/87654321|公益源1",
-            "https://dm.ljiaovm.com/luosen|公益源2"
-            ],
-            "titleMappingsUrl": "https://ghfast.top/https://raw.githubusercontent.com/goodcommunication/mydm/main/yins.json",
-            "filter": "./lib/douban.json"
-         }
-	   }
-    ]
-    _LOCKED_KEYS = {"FishConfig", "Local"}
     # WebHTV 原生站点注入注册表。
     REGISTRY_PATH = os.path.join(DETECTED_STORAGE_ROOT, "TV", "CustomCsp", "registry.json")
     OUTPUT_PATH = REGISTRY_PATH
@@ -254,7 +227,7 @@ class Spider(BaseSpider):
     SITE_TEST_TIMEOUT = 3.0
     MAX_SITE_TESTS = 50
     SITE_TEST_CACHE_VERSION = 3
-    GENERATED_KEY_PREFIX = "local_auto_"
+    GENERATED_KEY_PREFIX = "z_local_auto_"
     GENERATED_INSERT_INDEX = None  # None 表示追加；也可填写 0、1、2……
 
     JS_EXCLUDE = {
