@@ -227,7 +227,7 @@ class Spider(BaseSpider):
     SITE_TEST_TIMEOUT = 3.0
     MAX_SITE_TESTS = 50
     SITE_TEST_CACHE_VERSION = 3
-    GENERATED_KEY_PREFIX = "z_local_auto_"
+    GENERATED_KEY_PREFIX = "local_auto_"
     GENERATED_INSERT_INDEX = None  # None 表示追加；也可填写 0、1、2……
 
     JS_EXCLUDE = {
@@ -2700,7 +2700,7 @@ class Spider(BaseSpider):
             if not isinstance(site, dict)
             or str(site.get("key", "")).strip() not in local_keys
         ]
-        config["sites"] = local_sites + base_sites
+        config["sites"] = base_sites + local_sites
         home_key = str(registry.get("homeKey", "")).strip()
         if home_key and home_key in local_keys:
             config["home"] = home_key
