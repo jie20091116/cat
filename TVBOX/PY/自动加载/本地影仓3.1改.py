@@ -177,7 +177,7 @@ class Spider(BaseSpider):
             "name": "智能加载",
             "key": "智能加载",
             "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/智能加载v5.1.py"
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/jie20091116/cat/refs/heads/main/TVBOX/PY/自动加载/本地影仓3.1改.py"
          },
 		{
             "name": "弹幕 TG @hshsjk9",
@@ -185,7 +185,7 @@ class Spider(BaseSpider):
             "type": 3,
             "api": "csp_SecureDanmu",
             "searchable": 1,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/goodcommunication/mydm/main/danmu-spider-native.jar",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/goodcommunication/mydm/main/danmu-spider-native.jar",
             "ext": {
             "apiUrls": [
             "https://danmu.iyo.us.ci/theft-dastardly-prognosis-hula-agenda2-dropkick|公益源",
