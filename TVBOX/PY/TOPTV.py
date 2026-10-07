@@ -9,10 +9,11 @@ from base.spider import Spider
 class Spider(Spider):
     def getName(self):
         return "TOPTV"
-
+#地址发布页https://nfcrz.neocities.org/toptv/
+#https://toptv15.cyou
     def init(self, extend=""):
         super().init(extend)
-        self.site_url = "https://toptv15.cyou"
+        self.site_url = "https://toptv925.click"
         self.headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Referer": self.site_url
