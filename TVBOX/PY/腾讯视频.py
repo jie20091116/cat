@@ -1,11 +1,12 @@
-# -*- coding: utf-8 -*-
-# by @嗷呜
+# coding=utf-8
+# !/usr/bin/python
 import json
 import sys
 import uuid
 import copy
 sys.path.append('..')
 from base.spider import Spider
+from pyquery import PyQuery as pq
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 
@@ -95,23 +96,35 @@ class Spider(Spider):
         return result
 
     def homeVideoContent(self):
-        json_data = {'page_context':None,'page_params':{'page_id':'100101','page_type':'channel','skip_privacy_types':'0','support_click_scan':'1','new_mark_label_enabled':'1','ams_cookies':'',},'page_bypass_params':{'params':{'caller_id':'','data_mode':'default','page_id':'','page_type':'channel','platform_id':'2','user_mode':'default',},'scene':'channel','abtest_bypass_id':'',}}
-        data = self.post(f'{self.apihost}/trpc.vector_layout.page_view.PageService/getPage',headers=self.headers, json=json_data).json()
         vlist = []
-        for it in data['data']['CardList'][0]['children_list']['list']['cards']:
-            if it.get('params'):
-                p = it['params']
-                tag = json.loads(p.get('uni_imgtag', '{}') or p.get('imgtag', '{}') or '{}')
-                id = it.get('id') or p.get('cid')
-                name = p.get('mz_title') or p.get('title')
-                if name and 'http' not in id:
-                    vlist.append({
-                        'vod_id': id,
-                        'vod_name': name,
-                        'vod_pic': p.get('image_url'),
-                        'vod_year': tag.get('tag_2', {}).get('text'),
-                        'vod_remarks': tag.get('tag_4', {}).get('text')
-                    })
+        data = self.gethtml(self.host)
+        its = data('script')
+        s = None
+        for it in its.items():
+            if 'window.__INITIAL_STATE__' in it.text():
+                s = it.text()
+                break
+        if s:
+            index = s.find('=')
+            if index != -1:
+                sd = json.loads(s[index + 1:])
+                if sd.get('storeModulesData', {}).get('channelsModulesMap', {}).get('choice', {}).get('cardListData'):
+                    for its in sd['storeModulesData']['channelsModulesMap']['choice']['cardListData']:
+                        if its and its.get('children_list', {}).get('list', {}).get('cards'):
+                            for it in its['children_list']['list']['cards']:
+                                if it and it.get('params'):
+                                    p = it['params']
+                                    tag = json.loads(p.get('uni_imgtag', '{}') or p.get('imgtag', '{}') or '{}')
+                                    id = it.get('id') or p.get('cid')
+                                    name = p.get('mz_title') or p.get('title')
+                                    if name and 'http' not in id:
+                                        vlist.append({
+                                            'vod_id': id,
+                                            'vod_name': name,
+                                            'vod_pic': p.get('image_url'),
+                                            'vod_year': tag.get('tag_2', {}).get('text'),
+                                            'vod_remarks': tag.get('tag_4', {}).get('text')
+                                        })
         return {'list': vlist}
 
     def categoryContent(self, tid, pg, filter, extend):
@@ -162,8 +175,35 @@ class Spider(Spider):
         return result
 
     def detailContent(self, ids):
-        vbody = {"page_params":{"req_from":"web","cid":ids[0],"vid":"","lid":"","page_type":"detail_operation","page_id":"detail_page_introduction"},"has_cache":1}
-        body = {"page_params":{"req_from":"web_vsite","page_id":"vsite_episode_list","page_type":"detail_operation","id_type":"1","page_size":"","cid":ids[0],"vid":"","lid":"","page_num":"","page_context":"","detail_page_type":"1"},"has_cache":1}
+        vbody = {
+            "page_params": {
+                "req_from": "web",
+                "cid": ids[0],
+                "vid": "",
+                "lid": "",
+                "page_type": "detail_operation",
+                "page_id": "detail_page_introduction"
+            },
+            "has_cache": 1
+        }
+
+        body = {
+            "page_params": {
+                "req_from": "web_vsite",
+                "page_id": "vsite_episode_list",
+                "page_type": "detail_operation",
+                "id_type": "1",
+                "page_size": "",
+                "cid": ids[0],
+                "vid": "",
+                "lid": "",
+                "page_num": "",
+                "page_context": "",
+                "detail_page_type": "1"
+            },
+            "has_cache": 1
+        }
+
         with ThreadPoolExecutor(max_workers=2) as executor:
             future_detail = executor.submit(self.get_vdata, vbody)
             future_episodes = executor.submit(self.get_vdata, body)
@@ -190,19 +230,15 @@ class Spider(Spider):
             return self.handle_exception(e, "Error processing detail")
 
     def searchContent(self, key, quick, pg="1"):
-        headers = self.headers.copy()
-        headers.update({'Content-Type': 'application/json'})
-        body = {'version':'25021101','clientType':1,'filterValue':'','uuid':str(uuid.uuid4()),'retry':0,'query':key,'pagenum':int(pg)-1,'pagesize':30,'queryFrom':0,'searchDatakey':'','transInfo':'','isneedQc':True,'preQid':'','adClientInfo':'','extraInfo':{'isNewMarkLabel':'1','multi_terminal_pc':'1','themeType':'1',},}
+        body = {"version": "24072901", "clientType": 1, "filterValue": "", "uuid": str(uuid.uuid4()), "retry": 0,
+                "query": key, "pagenum": int(pg) - 1, "pagesize": 30, "queryFrom": 0, "searchDatakey": "",
+                "transInfo": "", "isneedQc": True, "preQid": "", "adClientInfo": "",
+                "extraInfo": {"isNewMarkLabel": "1", "multi_terminal_pc": "1"}}
         data = self.post(f'{self.apihost}/trpc.videosearch.mobile_search.MultiTerminalSearch/MbSearch?vplatform=2',
-                         json=body, headers=headers).json()
+                         json=body, headers=self.headers).json()
         vlist = []
-        vname=["电视剧", "电影", "综艺", "纪录片", "动漫", "少儿", "短剧"]
-        v=data['data']['normalList']['itemList']
-        d=data['data']['areaBoxList'][0]['itemList']
-        q=v+d
-        if v[0].get('doc') and v[0]['doc'].get('id') =='MainNeed':q=d+v
-        for k in q:
-            if k.get('doc') and k.get('videoInfo') and k['doc'].get('id') and '外站' not in k['videoInfo'].get('subTitle') and k['videoInfo'].get('title') and k['videoInfo'].get('typeName') in vname:
+        for k in data['data']['areaBoxList'][-1]['itemList']:
+            if k.get('doc', {}).get('id'):
                 img_tag = k.get('videoInfo', {}).get('imgTag')
                 if img_tag is not None and isinstance(img_tag, str):
                     try:
@@ -214,9 +250,9 @@ class Spider(Spider):
                 pic = k.get('videoInfo', {}).get('imgUrl')
                 vlist.append({
                     'vod_id': k['doc']['id'],
-                    'vod_name': self.removeHtmlTags(k['videoInfo']['title']),
+                    'vod_name': k['videoInfo']['title'],
                     'vod_pic': pic,
-                    'vod_year': k['videoInfo'].get('typeName') +' '+ tag.get('tag_2', {}).get('text', ''),
+                    'vod_year': tag.get('tag_2', {}).get('text', ''),
                     'vod_remarks': tag.get('tag_4', {}).get('text', '')
                 })
         return {'list': vlist, 'page': pg}
@@ -224,10 +260,16 @@ class Spider(Spider):
     def playerContent(self, flag, id, vipFlags):
         ids = id.split('@')
         url = f"{self.host}/x/cover/{ids[0]}/{ids[1]}.html"
-        return {'jx':1,'parse': 1, 'url': url, 'header': ''}
-
+        parse_url = f"https://jx.xmflv.com/?url={url}"
+        return {'parse': 1, 'url': parse_url, 'header': ''}
+        
     def localProxy(self, param):
         pass
+
+    def gethtml(self, url):
+        rsp = self.fetch(url, headers=self.headers)
+        rsp = self.cleanText(rsp.text)
+        return pq(rsp)
 
     def get_filter_data(self, cid):
         hbody = self.dbody.copy()
@@ -243,6 +285,7 @@ class Spider(Spider):
                 f'{self.apihost}/trpc.universal_backend_service.page_server_rpc.PageServer/GetPageData?video_appid=3000010&vplatform=2&vversion_name=8.2.96',
                 json=body, headers=self.headers
             ).json()
+            # print(body)
             return vdata
         except Exception as e:
             print(f"Error in get_vdata: {str(e)}")
@@ -319,5 +362,4 @@ class Spider(Spider):
                 continue
             query.append(f"{k}={v}")
         return "&".join(query)
-
 
