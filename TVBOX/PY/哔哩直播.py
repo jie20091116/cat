@@ -3,7 +3,7 @@
 
 """
 
-作者 丢丢喵 🚓 内容均从互联网收集而来 仅供交流学习使用 版权归原创者所有 如侵犯了您的权益 请通知作者 将及时删除侵权内容
+作者的内容均从互联网收集而来 仅供交流学习使用 版权归原创者所有 如侵犯了您的权益 请通知作者 将及时删除侵权内容
                     ====================Diudiumiao====================
 
 """
@@ -161,8 +161,13 @@ class Spider(Spider):
             names = vod.find('h3', class_="bili-live-card__info--tit")
             name = names.text.strip().replace('直播中', '')
 
-            id = names.find('a')['href']
-            id = self.extract_middle_text(id, 'bilibili.com/', '?', 0)
+            href = names.find('a')['href']
+            id = self.extract_middle_text(href, 'bilibili.com/', '?', 0)
+            # 兜底：如果链接没有 ? 参数，用正则直接提取房间号
+            if not id:
+                m = re.search(r'bilibili\.com/(\d+)', href)
+                if m:
+                    id = m.group(1)
 
             pic = vod.find('img')['src']
             if 'http' not in pic:
@@ -190,7 +195,6 @@ class Spider(Spider):
         did = ids[0]
         result = {}
         videos = []
-        xianlu = ''
         bofang = ''
 
         url = f'{xurl1}/xlive/web-room/v2/index/getRoomPlayInfo?room_id={did}&platform=web&protocol=0,1&format=0,1,2&codec=0,1'
@@ -200,30 +204,39 @@ class Spider(Spider):
 
         content = '欢迎观看哔哩直播'
 
-        setup = data['data']['playurl_info']['playurl']['stream']
+        try:
+            setup = data['data']['playurl_info']['playurl']['stream']
+        except (KeyError, TypeError):
+            setup = []
 
-        nam = 0
+        line_count = 0
+        for stream in setup:
+            for fmt in stream.get('format', []):
+                for codec in fmt.get('codec', []):
+                    base_url = codec.get('base_url', '')
+                    url_info_list = codec.get('url_info', [])
+                    if not base_url or not url_info_list:
+                        continue
+                    
+                    # 遍历所有CDN节点，取第一个可用的
+                    for uinfo in url_info_list:
+                        host = uinfo.get('host', '')
+                        extra = uinfo.get('extra', '')
+                        if not host or not extra:
+                            continue
+                        
+                        # 处理 host 和 base_url 之间可能出现的双斜杠
+                        if host.endswith('/') and base_url.startswith('/'):
+                            base_url = base_url[1:]
+                        play_url = host + base_url + extra
+                        
+                        line_count += 1
+                        namc = f"{line_count}号线路"
+                        bofang += f"{namc}${play_url}#"
+                        break  # 每个 codec 只取第一个可用 CDN
 
-        for vod in setup:
-
-            try:
-                host = vod['format'][nam]['codec'][0]['url_info'][1]['host']
-            except (KeyError, IndexError):
-                continue
-
-            base = vod['format'][nam]['codec'][0]['base_url']
-
-            extra = vod['format'][nam]['codec'][0]['url_info'][1]['extra']
-
-            id = host + base + extra
-
-            nam = nam + 1
-
-            namc = f"{nam}号线路"
-
-            bofang = bofang + namc + '$' + id + '#'
-
-        bofang = bofang[:-1]
+        if bofang:
+            bofang = bofang[:-1]
 
         xianlu = '哔哩专线'
 
@@ -243,7 +256,12 @@ class Spider(Spider):
         result["parse"] = 0
         result["playUrl"] = ''
         result["url"] = id
-        result["header"] = headerx
+        # B站直播流必须带 Referer，否则 403
+        result["header"] = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0',
+            'Referer': 'https://live.bilibili.com/',
+            'Origin': 'https://live.bilibili.com'
+        }
         return result
 
     def searchContentPage(self, key, quick, pg):
@@ -268,8 +286,13 @@ class Spider(Spider):
             names = vod.find('h3', class_="bili-live-card__info--tit")
             name = names.text.strip().replace('直播中', '')
 
-            id = names.find('a')['href']
-            id = self.extract_middle_text(id, 'bilibili.com/', '?', 0)
+            href = names.find('a')['href']
+            id = self.extract_middle_text(href, 'bilibili.com/', '?', 0)
+            # 兜底：如果链接没有 ? 参数，用正则直接提取房间号
+            if not id:
+                m = re.search(r'bilibili\.com/(\d+)', href)
+                if m:
+                    id = m.group(1)
 
             pic = vod.find('img')['src']
             if 'http' not in pic:
@@ -286,7 +309,7 @@ class Spider(Spider):
                     }
             videos.append(video)
 
-        result['list'] = videos
+        result = {'list': videos}
         result['page'] = pg
         result['pagecount'] = 9999
         result['limit'] = 90
@@ -304,11 +327,3 @@ class Spider(Spider):
         elif params['type'] == "ts":
             return self.proxyTs(params)
         return None
-
-
-
-
-
-
-
-
