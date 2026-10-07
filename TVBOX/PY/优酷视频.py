@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# by @嗷呜
+
 import json
 import sys
 import time
@@ -298,4 +298,3 @@ class Spider(Spider):
         if i['data']['extra']['showCategory'] in ['电影','游戏']:
             jdata = i['nodes'][0]['nodes'][4]
         return jdata,info
-
