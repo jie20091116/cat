@@ -9,11 +9,11 @@
       "name": "🐮┃豆瓣┃跑马灯",
       "type": 3,
       "api": "csp_Douban",
-      "jar": "https://raw.giteeusercontent.com/jie19890825/PG/raw/master/paomadeng.jar",
+      "jar": "https://gh-proxy.org/https://raw.giteeusercontent.com/jie19890825/PG/raw/master/paomadeng.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.giteeusercontent.com/jie19890825/PG/raw/master/paomadeng.txt"
+      "ext": "https://gh-proxy.org/https://raw.giteeusercontent.com/jie19890825/PG/raw/master/paomadeng.txt"
     },
     {
       "key": "豆瓣",
