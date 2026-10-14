@@ -11,16 +11,6 @@
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
-    }, {
-      "key": "杰哥豆瓣片单",
-      "name": "🐮┃豆瓣┃跑马灯",
-      "type": 3,
-      "api": "csp_Douban",
-      "jar": "https://raw.giteeusercontent.com/jie19890825/PG/raw/master/paomadeng.jar",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://raw.giteeusercontent.com/jie19890825/PG/raw/master/paomadeng.txt"
     },
     {
       "key": "配置中心",
