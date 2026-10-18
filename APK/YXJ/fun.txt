@@ -14,7 +14,7 @@
 // "warningText": "资源来自网络，无盈利纯技术分享！交流群：@tvshare23[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
 {
   "notice": "🔞【杰哥影视·全量专线说明】：本线路为个人独享专线，严禁外泄、抓包或多地共享，违规系统将自动封禁！如需分享亲友请使用【🏡 纯净地址】。",
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/jie20091116/cat/refs/heads/main/TVBOX/JS/spider.jar",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/jie20091116/cat/refs/heads/main/APK/YXJ/spider.jar",
   "wallpaper": "https://img.naixiai.cn/2026/wallpapers/full_vip.jpg",
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "sites": [
