@@ -1,18 +1,4 @@
-//https://sub.lytvs.top/get?token=tk_309cb85c
-////https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/ys.json
-//https://github.com/woshishiq1/hipy-drpy2/tree/9f12f741ba568ab03e52d2daa70cf00c819fa85e/jaychouqq/yingshi
-//https://github.com/jie20091116/bendibaocangku/blob/main/tvbox/%E8%9D%B4%E8%9D%B6.json
-//https://github.com/jie20091116/PYtvbox
-//https://github.com/ge6bu6/tuntun
-//https://github.com/sjzkn1/sjzkn/tree/fbbbd4e2a85a48d8d4605c2d6096a6441a8573fa
-//https://github.com/jwarrenrzflynn/TVpy/blob/452df985a354a88daa3e7fc43b263a38a55a8b94/tvbox.json
-//https://github.com/KAN314go/16
-//https://github.com/wliqi495-create/jaychouqq/tree/f60b1ca4de3c5f8debebcd2869ed60836960a67d/yingshi
-//https://github.com/Aurecod/Film-TV/tree/main/File/py
-//https://gh-proxy.com/https://raw.githubusercontent.com/tianjitop/llllo/refs/heads/main/api.json
-//https://gh-proxy.org/https://raw.githubusercontent.com/woshishiq1/hipy-drpy2/refs/heads/main/tenrecha/sa.json
-//https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/金牌APP.py
-//"warningText": "资源来自网络，无盈利纯技术分享！交流群：@tvshare23[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
+
 {
   "notice": "🔞【杰哥影视·全量专线说明】：本线路为个人独享专线，严禁外泄、抓包或多地共享，违规系统将自动封禁！如需分享亲友请使用【🏡 纯净地址】。",
   "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/jie20091116/cat/refs/heads/main/TVBOX/JS/spider.jar",
