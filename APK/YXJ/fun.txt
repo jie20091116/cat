@@ -8855,7 +8855,7 @@
       "ua": "okhttp/3.15"
     }
   ],
-  "parses": [
+   "parses": [
     {
       "name": "盘古",
       "type": 0,
@@ -8867,14 +8867,9 @@
       }
     },
     {
-      "name": "789解析1",
+      "name": "极速",
       "type": 0,
-      "url": "https://jiexi.789jiexi.icu:4433/?url="
-    },
-    {
-      "name": "789解析2",
-      "type": 0,
-      "url": "https://jiexi.789jiexi.com/?url="
+      "url": "https://jiexi.789jiexi.net:4433/?url="
     },
     {
       "name": "虾米解析",
@@ -9049,6 +9044,32 @@
   ],
   "rules": [
     {
+      "name": "老楊TV·雲端高級去广告JS注入",
+      "hosts": [
+        "vip.wwgz.cn",
+        "lziplayer.com",
+        "m3u8.apibdzy.com",
+        "cj.ffzyapi.com",
+        "api.hbzyapi.com",
+        "toutiaovod.com",
+        "huoshan.com",
+        "douyin.com",
+        "magnet",
+        "dadagui",
+        "freeok",
+        "www.maolvys.com"
+      ],
+      "script": [
+        "console.log('老楊TV高級WebView攔截器啟動');",
+        "window.addEventListener('DOMContentLoaded', function() {",
+        "   document.querySelectorAll('video').forEach(v => { v.muted = true; v.play().catch(e=>{}); });",
+        "   Function.prototype.__constructor__ = Function.prototype.constructor;",
+        "   Function.prototype.constructor = function() { if (arguments && typeof arguments[0] === 'string' && arguments[0].includes('debugger')) { return function(){}; } return Function.prototype.__constructor__.apply(this, arguments); };",
+        "});",
+        "setInterval(() => { let selectors = ['.adv-class', '.pop-banner', '#notice-modal', '[id*=\"partner\"]', '[class*=\"baidu\"]', 'iframe[src*=\"game\"]', 'iframe[src*=\"bet\"]', '#pop-ad', '.sidebar-ads', 'a[href*=\"999\"]']; selectors.forEach(sel => { document.querySelectorAll(sel).forEach(el => el.remove()); }); }, 400);"
+      ]
+    },
+    {
       "name": "农民",
       "hosts": [
         "toutiaovod.com"
@@ -9120,19 +9141,17 @@
       "script": [
         "document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"
       ]
-    },
-    {
-      "name": "ad_security_guard",
-      "hosts": [
-        "sub.lytvs.top",
-        "hd.lytvs.top"
-      ],
-      "regex": [
-        "https://sub.lytvs.top/trap?token=tk_309cb85c&t=1788673640599&sig=5ee7293ea1e77a20"
-      ]
     }
   ],
   "doh": [
+    {
+      "name": "AliDNS",
+      "url": "https://dns.alidns.com/dns-query",
+      "ips": [
+        "223.5.5.5",
+        "223.6.6.6"
+      ]
+    },
     {
       "name": "Google",
       "url": "https://dns.google/dns-query",
@@ -9169,7 +9188,7 @@
     },
     {
       "name": "Quad9",
-      "url": "https://dns.quad9.net/dns-quer",
+      "url": "https://dns.quad9.net/dns-query",
       "ips": [
         "9.9.9.9",
         "149.112.112.112"
